@@ -1,0 +1,37 @@
+LeftCompD: 1.28542e+06
+LeftCommD: 2.30661e+06
+ExpoCommD: 0
+Comp/Comm Weight: 0.557278
+AT22 AT21 
+LeftCompD: 602309
+LeftCommD: 2.23804e+06
+ExpoCommD: 939666
+Comp/Comm Weight: 0.269124
+AT24 
+LeftCompD: 455206
+LeftCommD: 2.18313e+06
+ExpoCommD: 976939
+Comp/Comm Weight: 0.208511
+AT26 
+LeftCompD: 416009
+LeftCommD: 2.05439e+06
+ExpoCommD: 1.0164e+06
+Comp/Comm Weight: 0.202497
+AT18 AT20 AT23 AT28 
+LeftCompD: 216473
+LeftCommD: 1.80098e+06
+ExpoCommD: 1.12244e+06
+Comp/Comm Weight: 0.120197
+AT16 
+LeftCompD: 214676
+LeftCommD: 1.7766e+06
+ExpoCommD: 1.1141e+06
+Comp/Comm Weight: 0.120836
+AT15 
+LeftCompD: 169272
+LeftCommD: 1.76562e+06
+ExpoCommD: 1.12123e+06
+Comp/Comm Weight: 0.0958715
+AT34 
+Selected FBs:
+AT22 AT21 AT24 AT26 AT18 AT20 AT23 AT28 AT16 AT15 AT34 

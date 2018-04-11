@@ -1,0 +1,12 @@
+LeftCompD: 1.28542e+06
+LeftCommD: 2.30661e+06
+ExpoCommD: 0
+Comp/Comm Weight: 0.557278
+AT21 
+LeftCompD: 952012
+LeftCommD: 2.30661e+06
+ExpoCommD: 473412
+Comp/Comm Weight: 0.412733
+AT24 
+Selected FBs:
+AT21 AT24 
