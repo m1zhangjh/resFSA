@@ -1,0 +1,1 @@
+Magnitude Sobel3mul3 ColorConvert CensusTransform 

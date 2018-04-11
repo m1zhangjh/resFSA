@@ -1,0 +1,9 @@
+ColorConvert_0 FB2
+CustomConvolution_0 FB6
+ChannelExtract_0 FB5
+CustomConvolution_1 FB6
+CustomConvolution_2 FB6
+Magnitude_0 SW0
+Thresholding_0 SW0
+Input SW0
+Output SW0

@@ -1,0 +1,7 @@
+Output SW0
+Input SW0
+ColorConvert_0 FB1
+BicImageClassifier SW0
+ScaleImage_0 SW0
+ChannelExtract_0 SW0
+FeatureExtract SW0

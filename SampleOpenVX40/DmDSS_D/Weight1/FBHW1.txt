@@ -1,0 +1,7 @@
+LeftCompD: 50552
+LeftCommD: 3414
+ExpoCommD: 0
+Comp/Comm Weight: 14.8073
+CustomConvolution 
+Selected FBs:
+CustomConvolution 

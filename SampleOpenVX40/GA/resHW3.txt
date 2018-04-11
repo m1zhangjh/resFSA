@@ -1,0 +1,84 @@
+G0Result: 6.66978
+G0nrChm: 27
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution 
+
+G1Result: 6.96308
+G1nrChm: 67
+G1FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 6.96308
+G2nrChm: 102
+G2FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 6.96308
+G3nrChm: 134
+G3FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 6.96308
+G4nrChm: 148
+G4FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 6.96308
+G5nrChm: 158
+G5FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 6.96308
+G6nrChm: 174
+G6FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 6.96308
+G7nrChm: 196
+G7FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 6.96308
+G8nrChm: 219
+G8FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 6.96308
+G9nrChm: 228
+G9FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 6.96308
+G10nrChm: 234
+G10FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G11Result: 6.96308
+G11nrChm: 238
+G11FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G12Result: 6.96308
+G12nrChm: 246
+G12FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G13Result: 6.96308
+G13nrChm: 261
+G13FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G14Result: 6.96308
+G14nrChm: 272
+G14FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G15Result: 6.96308
+G15nrChm: 279
+G15FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G16Result: 6.96308
+G16nrChm: 287
+G16FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G17Result: 6.96308
+G17nrChm: 291
+G17FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G18Result: 6.96308
+G18nrChm: 296
+G18FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G19Result: 6.96308
+G19nrChm: 302
+G19FB: ColorConvert CustomConvolution Gaussian3mul3 
+
+G20Result: 6.96308
+G20nrChm: 308
+G20FB: ColorConvert CustomConvolution Gaussian3mul3 
+

@@ -1,0 +1,84 @@
+G0Result: 1.42786
+G0nrChm: 11
+G0FB: AT22 
+
+G1Result: 1.42786
+G1nrChm: 16
+G1FB: AT22 
+
+G2Result: 1.42786
+G2nrChm: 17
+G2FB: AT22 
+
+G3Result: 1.42786
+G3nrChm: 19
+G3FB: AT22 
+
+G4Result: 1.42786
+G4nrChm: 21
+G4FB: AT22 
+
+G5Result: 1.42786
+G5nrChm: 22
+G5FB: AT22 
+
+G6Result: 1.42786
+G6nrChm: 22
+G6FB: AT22 
+
+G7Result: 1.42786
+G7nrChm: 24
+G7FB: AT22 
+
+G8Result: 1.42786
+G8nrChm: 25
+G8FB: AT22 
+
+G9Result: 1.42786
+G9nrChm: 25
+G9FB: AT22 
+
+G10Result: 1.42786
+G10nrChm: 25
+G10FB: AT22 
+
+G11Result: 1.42786
+G11nrChm: 26
+G11FB: AT22 
+
+G12Result: 1.42786
+G12nrChm: 26
+G12FB: AT22 
+
+G13Result: 1.42786
+G13nrChm: 26
+G13FB: AT22 
+
+G14Result: 1.42786
+G14nrChm: 27
+G14FB: AT22 
+
+G15Result: 1.42786
+G15nrChm: 27
+G15FB: AT22 
+
+G16Result: 1.42786
+G16nrChm: 27
+G16FB: AT22 
+
+G17Result: 1.42786
+G17nrChm: 27
+G17FB: AT22 
+
+G18Result: 1.42786
+G18nrChm: 27
+G18FB: AT22 
+
+G19Result: 1.42786
+G19nrChm: 27
+G19FB: AT22 
+
+G20Result: 1.42786
+G20nrChm: 27
+G20FB: AT22 
+

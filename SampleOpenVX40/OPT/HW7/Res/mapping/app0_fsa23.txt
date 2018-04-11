@@ -1,0 +1,9 @@
+Input SW0
+ColorConvert_1 FB4
+EqualizeHistogram_0 SW0
+ChannelExtract_1 FB7
+ChannelExtract_0 FB7
+ColorConvert_0 FB4
+ChannelCombine_0 SW0
+Output SW0
+ChannelExtract_2 FB7

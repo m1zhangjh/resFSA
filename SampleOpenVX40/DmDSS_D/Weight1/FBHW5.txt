@@ -1,0 +1,27 @@
+LeftCompD: 50552
+LeftCommD: 3414
+ExpoCommD: 0
+Comp/Comm Weight: 14.8073
+CustomConvolution 
+LeftCompD: 33532
+LeftCommD: 3414
+ExpoCommD: 624
+Comp/Comm Weight: 9.82191
+ColorConvert 
+LeftCompD: 28944
+LeftCommD: 3414
+ExpoCommD: 1356
+Comp/Comm Weight: 8.47803
+HarrisCorners 
+LeftCompD: 22672
+LeftCommD: 3414
+ExpoCommD: 1468
+Comp/Comm Weight: 6.64089
+CannyEdgeDetector 
+LeftCompD: 18552
+LeftCommD: 3390
+ExpoCommD: 1500
+Comp/Comm Weight: 5.47257
+OpticalFlowPyramid 
+Selected FBs:
+CustomConvolution ColorConvert HarrisCorners CannyEdgeDetector OpticalFlowPyramid 

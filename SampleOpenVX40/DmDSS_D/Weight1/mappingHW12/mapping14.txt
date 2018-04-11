@@ -1,0 +1,8 @@
+ChannelExtract_0 FB9
+ColorConvert_0 FB2
+CustomConvolution_0 FB1
+CustomConvolution_1 FB1
+Magnitude_0 SW0
+EqualizeHistogram_0 FB10
+Input SW0
+Output SW0

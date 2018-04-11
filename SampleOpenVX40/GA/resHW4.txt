@@ -1,0 +1,84 @@
+G0Result: 7.05477
+G0nrChm: 27
+G0FB: ColorConvert CustomConvolution EqualizeHistogram HarrisCorners 
+
+G1Result: 8.01138
+G1nrChm: 89
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.01138
+G2nrChm: 126
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.01138
+G3nrChm: 174
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.01138
+G4nrChm: 200
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.01138
+G5nrChm: 233
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.01138
+G6nrChm: 252
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.17634
+G7nrChm: 288
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.17634
+G8nrChm: 305
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.17634
+G9nrChm: 319
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.17634
+G10nrChm: 336
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G11Result: 8.17634
+G11nrChm: 352
+G11FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G12Result: 8.17634
+G12nrChm: 380
+G12FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G13Result: 8.17634
+G13nrChm: 398
+G13FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G14Result: 8.17634
+G14nrChm: 422
+G14FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G15Result: 8.17634
+G15nrChm: 443
+G15FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G16Result: 8.17634
+G16nrChm: 459
+G16FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G17Result: 8.17634
+G17nrChm: 474
+G17FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G18Result: 8.17634
+G18nrChm: 487
+G18FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G19Result: 8.17634
+G19nrChm: 501
+G19FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G20Result: 8.17634
+G20nrChm: 517
+G20FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+

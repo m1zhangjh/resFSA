@@ -1,0 +1,84 @@
+G0Result: 8.66649
+G0nrChm: 29
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.66649
+G1nrChm: 102
+G1FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.66649
+G2nrChm: 148
+G2FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.66649
+G3nrChm: 194
+G3FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.66649
+G4nrChm: 235
+G4FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.66649
+G5nrChm: 277
+G5FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.66649
+G6nrChm: 309
+G6FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.66649
+G7nrChm: 344
+G7FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.66649
+G8nrChm: 377
+G8FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.66649
+G9nrChm: 410
+G9FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.66649
+G10nrChm: 430
+G10FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G11Result: 8.66649
+G11nrChm: 455
+G11FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G12Result: 8.66649
+G12nrChm: 485
+G12FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G13Result: 8.66649
+G13nrChm: 512
+G13FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G14Result: 8.66649
+G14nrChm: 541
+G14FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G15Result: 8.87615
+G15nrChm: 573
+G15FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 Magnitude 
+
+G16Result: 8.87615
+G16nrChm: 604
+G16FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 Magnitude 
+
+G17Result: 8.87615
+G17nrChm: 634
+G17FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 Magnitude 
+
+G18Result: 8.87615
+G18nrChm: 651
+G18FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 Magnitude 
+
+G19Result: 8.87615
+G19nrChm: 670
+G19FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 Magnitude 
+
+G20Result: 8.87615
+G20nrChm: 693
+G20FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 Magnitude 
+

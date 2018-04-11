@@ -1,0 +1,8 @@
+ChannelExtract_0 SW0
+HarrisCorners_0 FB3
+AccumulateWeighted_0 SW0
+Box3mul3_0 FB1
+ColorConvert_0 FB2
+EqualizeHistogram_0 SW0
+Input SW0
+Output SW0

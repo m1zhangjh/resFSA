@@ -1,0 +1,5363 @@
+SW Throughput: 
+6.25e+06 1.90476e+06 1.25786e+06 1.40351e+07 3.92157e+06 955414 1.12994e+06 3.7037e+06 1.30293e+06 2.04082e+06 1.20482e+06 497512 1.41844e+06 729927 680272 1.25786e+06 2.64901e+06 5.71429e+07 561798 2.71186e+06 816327 3.63636e+06 1.28411e+06 1.42857e+06 873362 732601 344828 1.14504e+06 260417 311526 298954 1.02564e+06 1.02041e+06 611621 481928 796813 502513 693241 851064 5.26316e+06 
+
+APP0
+
+DSS
+LeftCompD: 50168
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.2301
+CustomConvolution 
+LeftCompD: 33148
+LeftCommD: 3294
+ExpoCommD: 624
+Comp/Comm Weight: 10.0631
+HarrisCorners 
+LeftCompD: 26876
+LeftCommD: 3294
+ExpoCommD: 736
+Comp/Comm Weight: 8.15908
+ColorConvert 
+LeftCompD: 22584
+LeftCommD: 3294
+ExpoCommD: 1380
+Comp/Comm Weight: 6.8561
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.4291
+G0nrChm: 27
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 OpticalFlowPyramid 
+
+G1Result: 8.14042
+G1nrChm: 3191
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.14042
+G2nrChm: 4873
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.14042
+G3nrChm: 6704
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.14042
+G4nrChm: 7636
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.14042
+G5nrChm: 8018
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.14042
+G6nrChm: 8575
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.14042
+G7nrChm: 9059
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.14042
+G8nrChm: 9406
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.14042
+G9nrChm: 10001
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.14042
+G10nrChm: 10561
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 8.10501
+G0nrChm: 26
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.10501
+G1nrChm: 135
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.10501
+G2nrChm: 165
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.10501
+G3nrChm: 200
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.10501
+G4nrChm: 249
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.10501
+G5nrChm: 276
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.10501
+G6nrChm: 316
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.10501
+G7nrChm: 349
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.10501
+G8nrChm: 367
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.10501
+G9nrChm: 380
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.10501
+G10nrChm: 404
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP0
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.72504e+07
+DSS_ThI: 4.36007
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 5.98563e+07
+GANO_ThI: 9.57702
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 2.72504e+07
+GADSS_ThI: 4.36007
+
+
+APP1
+
+DSS
+LeftCompD: 50132
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 15.0728
+CustomConvolution 
+LeftCompD: 33112
+LeftCommD: 3326
+ExpoCommD: 624
+Comp/Comm Weight: 9.9555
+HarrisCorners 
+LeftCompD: 26840
+LeftCommD: 3326
+ExpoCommD: 736
+Comp/Comm Weight: 8.06975
+ColorConvert 
+LeftCompD: 22400
+LeftCommD: 3326
+ExpoCommD: 1444
+Comp/Comm Weight: 6.73482
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 8.17722
+G0nrChm: 26
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.3464
+G1nrChm: 3114
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.3464
+G2nrChm: 3645
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.3464
+G3nrChm: 4894
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.3464
+G4nrChm: 5711
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.3464
+G5nrChm: 6316
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.3464
+G6nrChm: 7002
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.3464
+G7nrChm: 7488
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.3464
+G8nrChm: 7974
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.3464
+G9nrChm: 8604
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.3464
+G10nrChm: 9094
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.77394
+G0nrChm: 30
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.17722
+G1nrChm: 111
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.17722
+G2nrChm: 137
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.17722
+G3nrChm: 177
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.17722
+G4nrChm: 211
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.3464
+G5nrChm: 244
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.3464
+G6nrChm: 270
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.3464
+G7nrChm: 302
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.3464
+G8nrChm: 325
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.3464
+G9nrChm: 339
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.3464
+G10nrChm: 346
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP1
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.94092e+06
+DSS_ThI: 1.54398
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 2.94092e+06
+GANO_ThI: 1.54398
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 2.94092e+06
+GADSS_ThI: 1.54398
+
+
+APP2
+
+DSS
+LeftCompD: 49756
+LeftCommD: 3270
+ExpoCommD: 0
+Comp/Comm Weight: 15.2159
+CustomConvolution 
+LeftCompD: 32736
+LeftCommD: 3270
+ExpoCommD: 624
+Comp/Comm Weight: 10.011
+HarrisCorners 
+LeftCompD: 26464
+LeftCommD: 3270
+ExpoCommD: 736
+Comp/Comm Weight: 8.09297
+ColorConvert 
+LeftCompD: 21876
+LeftCommD: 3270
+ExpoCommD: 1468
+Comp/Comm Weight: 6.68991
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.78788
+G0nrChm: 27
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.36034
+G1nrChm: 4729
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.36034
+G2nrChm: 6348
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.36034
+G3nrChm: 7177
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.36034
+G4nrChm: 7764
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.36034
+G5nrChm: 8753
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.36034
+G6nrChm: 9845
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.36034
+G7nrChm: 10268
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.36034
+G8nrChm: 10608
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.36034
+G9nrChm: 10682
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.36034
+G10nrChm: 11131
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.95356
+G0nrChm: 28
+G0FB: ChannelExtract ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.19116
+G1nrChm: 92
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.19116
+G2nrChm: 124
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.19116
+G3nrChm: 167
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.19116
+G4nrChm: 202
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.36034
+G5nrChm: 238
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.36034
+G6nrChm: 256
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.36034
+G7nrChm: 282
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.36034
+G8nrChm: 306
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.36034
+G9nrChm: 330
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.36034
+G10nrChm: 348
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP2
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 1.25786e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 1.25786e+06
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 1.25786e+06
+GADSS_ThI: 1
+
+
+APP3
+
+DSS
+LeftCompD: 50196
+LeftCommD: 3334
+ExpoCommD: 0
+Comp/Comm Weight: 15.0558
+CustomConvolution 
+LeftCompD: 33176
+LeftCommD: 3334
+ExpoCommD: 624
+Comp/Comm Weight: 9.95081
+HarrisCorners 
+LeftCompD: 26904
+LeftCommD: 3334
+ExpoCommD: 736
+Comp/Comm Weight: 8.06959
+ColorConvert 
+LeftCompD: 22464
+LeftCommD: 3334
+ExpoCommD: 1452
+Comp/Comm Weight: 6.73785
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.74048
+G0nrChm: 25
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.31294
+G1nrChm: 3682
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.31294
+G2nrChm: 4926
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.31294
+G3nrChm: 6856
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.31294
+G4nrChm: 8036
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.31294
+G5nrChm: 8504
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.31294
+G6nrChm: 8974
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.31294
+G7nrChm: 9525
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.31294
+G8nrChm: 9866
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.31294
+G9nrChm: 10136
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.31294
+G10nrChm: 10411
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 8.14376
+G0nrChm: 28
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.14376
+G1nrChm: 109
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.14376
+G2nrChm: 150
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.14376
+G3nrChm: 178
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.14376
+G4nrChm: 216
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.14376
+G5nrChm: 258
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.14376
+G6nrChm: 272
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.14376
+G7nrChm: 303
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.14376
+G8nrChm: 344
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.31294
+G9nrChm: 366
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.31294
+G10nrChm: 383
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP3
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 3.9984e+07
+DSS_ThI: 2.84886
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 3.9984e+07
+GANO_ThI: 2.84886
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 3.9984e+07
+GADSS_ThI: 2.84886
+
+
+APP4
+
+DSS
+LeftCompD: 50220
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.8844
+CustomConvolution 
+LeftCompD: 33200
+LeftCommD: 3374
+ExpoCommD: 624
+Comp/Comm Weight: 9.83995
+HarrisCorners 
+LeftCompD: 26928
+LeftCommD: 3374
+ExpoCommD: 736
+Comp/Comm Weight: 7.98103
+ColorConvert 
+LeftCompD: 22488
+LeftCommD: 3374
+ExpoCommD: 1444
+Comp/Comm Weight: 6.66509
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.21556
+G0nrChm: 28
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Magnitude 
+
+G1Result: 8.16804
+G1nrChm: 4892
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.16804
+G2nrChm: 6305
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.16804
+G3nrChm: 7163
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.16804
+G4nrChm: 8062
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.16804
+G5nrChm: 8789
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.16804
+G6nrChm: 9394
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.16804
+G7nrChm: 9516
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.16804
+G8nrChm: 9841
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.16804
+G9nrChm: 10236
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.16804
+G10nrChm: 10320
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.26959
+G0nrChm: 28
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 HarrisCorners 
+
+G1Result: 7.44102
+G1nrChm: 115
+G1FB: CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram 
+
+G2Result: 8.12344
+G2nrChm: 162
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.12344
+G3nrChm: 202
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.12344
+G4nrChm: 240
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.12344
+G5nrChm: 265
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.12344
+G6nrChm: 300
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.12344
+G7nrChm: 319
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.12344
+G8nrChm: 336
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.12344
+G9nrChm: 358
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.12344
+G10nrChm: 376
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP4
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 1.42796e+07
+DSS_ThI: 3.6413
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 3.33333e+07
+GANO_ThI: 8.5
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 1.42796e+07
+GADSS_ThI: 3.6413
+
+
+APP5
+
+DSS
+LeftCompD: 48040
+LeftCommD: 3342
+ExpoCommD: 0
+Comp/Comm Weight: 14.3746
+CustomConvolution 
+LeftCompD: 31020
+LeftCommD: 3342
+ExpoCommD: 624
+Comp/Comm Weight: 9.28187
+HarrisCorners 
+LeftCompD: 24748
+LeftCommD: 3342
+ExpoCommD: 736
+Comp/Comm Weight: 7.40515
+ColorConvert 
+LeftCompD: 20160
+LeftCommD: 3342
+ExpoCommD: 1468
+Comp/Comm Weight: 6.03232
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.33731
+G0nrChm: 27
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 HarrisCorners 
+
+G1Result: 8.36034
+G1nrChm: 3912
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.36034
+G2nrChm: 5263
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.36034
+G3nrChm: 6587
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.36034
+G4nrChm: 7550
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.36034
+G5nrChm: 8763
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.36034
+G6nrChm: 9678
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.36034
+G7nrChm: 10416
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.36034
+G8nrChm: 10779
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.36034
+G9nrChm: 11045
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.36034
+G10nrChm: 11836
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.11818
+G0nrChm: 23
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution HarrisCorners 
+
+G1Result: 8.36034
+G1nrChm: 72
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.36034
+G2nrChm: 119
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.36034
+G3nrChm: 153
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.36034
+G4nrChm: 195
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.36034
+G5nrChm: 226
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.36034
+G6nrChm: 259
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.36034
+G7nrChm: 276
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.36034
+G8nrChm: 292
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.36034
+G9nrChm: 318
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.36034
+G10nrChm: 340
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP5
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 955414
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 955414
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 955414
+GADSS_ThI: 1
+
+
+APP6
+
+DSS
+LeftCompD: 49772
+LeftCommD: 3358
+ExpoCommD: 0
+Comp/Comm Weight: 14.8219
+CustomConvolution 
+LeftCompD: 33212
+LeftCommD: 3358
+ExpoCommD: 608
+Comp/Comm Weight: 9.89041
+HarrisCorners 
+LeftCompD: 26940
+LeftCommD: 3358
+ExpoCommD: 720
+Comp/Comm Weight: 8.02263
+ColorConvert 
+LeftCompD: 22500
+LeftCommD: 3358
+ExpoCommD: 1428
+Comp/Comm Weight: 6.70042
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.87936
+G0nrChm: 25
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G1Result: 8.20453
+G1nrChm: 3160
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.20453
+G2nrChm: 4528
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.20453
+G3nrChm: 6479
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.20453
+G4nrChm: 7614
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.20453
+G5nrChm: 8789
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.20453
+G6nrChm: 9120
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.20453
+G7nrChm: 9485
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.20453
+G8nrChm: 10798
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.20453
+G9nrChm: 11418
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.20453
+G10nrChm: 11837
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.33125
+G0nrChm: 28
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.63207
+G1nrChm: 91
+G1FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.03535
+G2nrChm: 129
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.03535
+G3nrChm: 163
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.03535
+G4nrChm: 217
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.03535
+G5nrChm: 253
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.20453
+G6nrChm: 290
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.20453
+G7nrChm: 308
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.20453
+G8nrChm: 338
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.20453
+G9nrChm: 355
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.20453
+G10nrChm: 372
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP6
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 7.99616e+06
+DSS_ThI: 7.0766
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 7.99616e+06
+GANO_ThI: 7.0766
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 7.99616e+06
+GADSS_ThI: 7.0766
+
+
+APP7
+
+DSS
+LeftCompD: 49952
+LeftCommD: 3382
+ExpoCommD: 0
+Comp/Comm Weight: 14.77
+CustomConvolution 
+LeftCompD: 32932
+LeftCommD: 3382
+ExpoCommD: 624
+Comp/Comm Weight: 9.73743
+HarrisCorners 
+LeftCompD: 26660
+LeftCommD: 3382
+ExpoCommD: 736
+Comp/Comm Weight: 7.88291
+ColorConvert 
+LeftCompD: 22072
+LeftCommD: 3382
+ExpoCommD: 1468
+Comp/Comm Weight: 6.52632
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.78788
+G0nrChm: 26
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.36034
+G1nrChm: 3925
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.36034
+G2nrChm: 5125
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.36034
+G3nrChm: 6044
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.36034
+G4nrChm: 6798
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.36034
+G5nrChm: 8026
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.36034
+G6nrChm: 9360
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.36034
+G7nrChm: 9852
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.36034
+G8nrChm: 10201
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.36034
+G9nrChm: 10280
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.36034
+G10nrChm: 10498
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.48706
+G0nrChm: 27
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.78788
+G1nrChm: 82
+G1FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.78788
+G2nrChm: 124
+G2FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.19116
+G3nrChm: 148
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.19116
+G4nrChm: 185
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.19116
+G5nrChm: 215
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.19116
+G6nrChm: 248
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.19116
+G7nrChm: 267
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.19116
+G8nrChm: 287
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.19116
+G9nrChm: 318
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.19116
+G10nrChm: 338
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP7
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 3.7037e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 3.7037e+06
+GANO_ThI: 1
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 3.7037e+06
+GADSS_ThI: 1
+
+
+APP8
+
+DSS
+LeftCompD: 47516
+LeftCommD: 3270
+ExpoCommD: 0
+Comp/Comm Weight: 14.5309
+CustomConvolution 
+LeftCompD: 30496
+LeftCommD: 3270
+ExpoCommD: 624
+Comp/Comm Weight: 9.32599
+HarrisCorners 
+LeftCompD: 25120
+LeftCommD: 3270
+ExpoCommD: 720
+Comp/Comm Weight: 7.68196
+ColorConvert 
+LeftCompD: 20680
+LeftCommD: 3270
+ExpoCommD: 1436
+Comp/Comm Weight: 6.32416
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.31835
+G0nrChm: 28
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 HarrisCorners 
+
+G1Result: 8.3587
+G1nrChm: 3831
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.3587
+G2nrChm: 5046
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.3587
+G3nrChm: 5713
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.3587
+G4nrChm: 6651
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.3587
+G5nrChm: 7161
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.3587
+G6nrChm: 7527
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.3587
+G7nrChm: 8128
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.3587
+G8nrChm: 8972
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.3587
+G9nrChm: 9247
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.3587
+G10nrChm: 9957
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.19103
+G0nrChm: 28
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution OpticalFlowPyramid 
+
+G1Result: 8.18952
+G1nrChm: 107
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.18952
+G2nrChm: 138
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.18952
+G3nrChm: 157
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.18952
+G4nrChm: 212
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.3587
+G5nrChm: 238
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.3587
+G6nrChm: 278
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.3587
+G7nrChm: 309
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.3587
+G8nrChm: 321
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.3587
+G9nrChm: 353
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.3587
+G10nrChm: 376
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP8
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.26621e+06
+DSS_ThI: 1.73932
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 1.38647e+06
+GANO_ThI: 1.06411
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 1.38647e+06
+GADSS_ThI: 1.06411
+
+
+APP9
+
+DSS
+LeftCompD: 49920
+LeftCommD: 3310
+ExpoCommD: 0
+Comp/Comm Weight: 15.0816
+CustomConvolution 
+LeftCompD: 32900
+LeftCommD: 3310
+ExpoCommD: 624
+Comp/Comm Weight: 9.93958
+HarrisCorners 
+LeftCompD: 26628
+LeftCommD: 3310
+ExpoCommD: 736
+Comp/Comm Weight: 8.04471
+ColorConvert 
+LeftCompD: 22040
+LeftCommD: 3310
+ExpoCommD: 1468
+Comp/Comm Weight: 6.65861
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.48706
+G0nrChm: 28
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 8.34479
+G1nrChm: 3978
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.34479
+G2nrChm: 5414
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.34479
+G3nrChm: 7228
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.34479
+G4nrChm: 9485
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.34479
+G5nrChm: 10602
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.34479
+G6nrChm: 11293
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.34479
+G7nrChm: 11808
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.34479
+G8nrChm: 12164
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.34479
+G9nrChm: 12346
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.34479
+G10nrChm: 12643
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.77233
+G0nrChm: 21
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.17561
+G1nrChm: 91
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.17561
+G2nrChm: 131
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.17561
+G3nrChm: 174
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.17561
+G4nrChm: 219
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.17561
+G5nrChm: 254
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.17561
+G6nrChm: 274
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.17561
+G7nrChm: 296
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.17561
+G8nrChm: 322
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.17561
+G9nrChm: 336
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.17561
+G10nrChm: 356
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP9
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.04082e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 3.27858e+06
+GANO_ThI: 1.6065
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 3.27858e+06
+GADSS_ThI: 1.6065
+
+
+APP10
+
+DSS
+LeftCompD: 49888
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.786
+CustomConvolution 
+LeftCompD: 33328
+LeftCommD: 3374
+ExpoCommD: 608
+Comp/Comm Weight: 9.87789
+HarrisCorners 
+LeftCompD: 27056
+LeftCommD: 3374
+ExpoCommD: 720
+Comp/Comm Weight: 8.01897
+ColorConvert 
+LeftCompD: 22616
+LeftCommD: 3374
+ExpoCommD: 1436
+Comp/Comm Weight: 6.70302
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.91304
+G0nrChm: 27
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 7.91304
+G1nrChm: 3736
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.91304
+G2nrChm: 5361
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.91304
+G3nrChm: 6076
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.91304
+G4nrChm: 8099
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.91304
+G5nrChm: 9009
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 7.91304
+G6nrChm: 9450
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 7.91304
+G7nrChm: 10594
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 7.91304
+G8nrChm: 10808
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 7.91304
+G9nrChm: 11660
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 7.91304
+G10nrChm: 12501
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.91304
+G0nrChm: 26
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 7.91304
+G1nrChm: 76
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.91304
+G2nrChm: 113
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.91304
+G3nrChm: 142
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.91304
+G4nrChm: 175
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.91304
+G5nrChm: 226
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 7.91304
+G6nrChm: 242
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 7.91304
+G7nrChm: 261
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 7.91304
+G8nrChm: 293
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 7.91304
+G9nrChm: 309
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 7.91304
+G10nrChm: 341
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP10
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 1.42735e+07
+DSS_ThI: 11.847
+GANOFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GANO_Th: 1.42735e+07
+GANO_ThI: 11.847
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 1.42735e+07
+GADSS_ThI: 11.847
+
+
+APP11
+
+DSS
+LeftCompD: 48944
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.7156
+CustomConvolution 
+LeftCompD: 33304
+LeftCommD: 3326
+ExpoCommD: 584
+Comp/Comm Weight: 10.0132
+HarrisCorners 
+LeftCompD: 27032
+LeftCommD: 3326
+ExpoCommD: 696
+Comp/Comm Weight: 8.12748
+ColorConvert 
+LeftCompD: 22592
+LeftCommD: 3326
+ExpoCommD: 1404
+Comp/Comm Weight: 6.79254
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.02589
+G0nrChm: 26
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 OpticalFlowPyramid 
+
+G1Result: 7.87099
+G1nrChm: 3963
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 7.87099
+G2nrChm: 5297
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 7.87099
+G3nrChm: 6688
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 7.87099
+G4nrChm: 7790
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 7.87099
+G5nrChm: 8388
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 7.87099
+G6nrChm: 9577
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 7.87099
+G7nrChm: 9881
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.87099
+G8nrChm: 10220
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.87099
+G9nrChm: 10524
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.87099
+G10nrChm: 11037
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.02589
+G0nrChm: 26
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 OpticalFlowPyramid 
+
+G1Result: 7.54582
+G1nrChm: 99
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G2Result: 7.70181
+G2nrChm: 144
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.70181
+G3nrChm: 182
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.70181
+G4nrChm: 213
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.70181
+G5nrChm: 244
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 7.70181
+G6nrChm: 280
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 7.87099
+G7nrChm: 322
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.87099
+G8nrChm: 345
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.87099
+G9nrChm: 360
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.87099
+G10nrChm: 391
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP11
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 9.99251e+06
+DSS_ThI: 20.0849
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 9.99251e+06
+GANO_ThI: 20.0849
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 9.99251e+06
+GADSS_ThI: 20.0849
+
+
+APP12
+
+DSS
+LeftCompD: 49424
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.8599
+CustomConvolution 
+LeftCompD: 33324
+LeftCommD: 3326
+ExpoCommD: 576
+Comp/Comm Weight: 10.0192
+HarrisCorners 
+LeftCompD: 27052
+LeftCommD: 3326
+ExpoCommD: 688
+Comp/Comm Weight: 8.13349
+ColorConvert 
+LeftCompD: 22612
+LeftCommD: 3326
+ExpoCommD: 1396
+Comp/Comm Weight: 6.79856
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.0143
+G0nrChm: 28
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Dilate3mul3 
+
+G1Result: 7.90451
+G1nrChm: 3870
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 7.90451
+G2nrChm: 4870
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 7.90451
+G3nrChm: 6645
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 7.90451
+G4nrChm: 8721
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 7.90451
+G5nrChm: 9810
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 7.90451
+G6nrChm: 10761
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 7.90451
+G7nrChm: 11960
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.90451
+G8nrChm: 12121
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.90451
+G9nrChm: 12254
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.90451
+G10nrChm: 12549
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 6.7586
+G0nrChm: 25
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution OpticalFlowPyramid 
+
+G1Result: 7.73533
+G1nrChm: 89
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.73533
+G2nrChm: 125
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.73533
+G3nrChm: 174
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.73533
+G4nrChm: 218
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.73533
+G5nrChm: 240
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 7.73533
+G6nrChm: 283
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 7.73533
+G7nrChm: 315
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 7.73533
+G8nrChm: 347
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 7.73533
+G9nrChm: 373
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 7.73533
+G10nrChm: 407
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP12
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.66347e+07
+DSS_ThI: 18.7775
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 2.66347e+07
+GANO_ThI: 18.7775
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 2.66347e+07
+GADSS_ThI: 18.7775
+
+
+APP13
+
+DSS
+LeftCompD: 49456
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.6928
+CustomConvolution 
+LeftCompD: 33356
+LeftCommD: 3366
+ExpoCommD: 608
+Comp/Comm Weight: 9.90969
+HarrisCorners 
+LeftCompD: 27084
+LeftCommD: 3366
+ExpoCommD: 720
+Comp/Comm Weight: 8.04635
+ColorConvert 
+LeftCompD: 22644
+LeftCommD: 3366
+ExpoCommD: 1428
+Comp/Comm Weight: 6.72727
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 6.90178
+G0nrChm: 28
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.77506
+G1nrChm: 6270
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 7.77506
+G2nrChm: 7455
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 7.77506
+G3nrChm: 8588
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 7.77506
+G4nrChm: 9678
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 7.77506
+G5nrChm: 10356
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 7.77506
+G6nrChm: 11057
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 7.77506
+G7nrChm: 11447
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.77506
+G8nrChm: 11826
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.77506
+G9nrChm: 12014
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.77506
+G10nrChm: 12456
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 6.75203
+G0nrChm: 23
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 HarrisCorners 
+
+G1Result: 7.60588
+G1nrChm: 76
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.60588
+G2nrChm: 123
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.60588
+G3nrChm: 168
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.77506
+G4nrChm: 194
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 7.77506
+G5nrChm: 231
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 7.77506
+G6nrChm: 277
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 7.77506
+G7nrChm: 314
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.77506
+G8nrChm: 328
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.77506
+G9nrChm: 355
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.77506
+G10nrChm: 375
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP13
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 1.73913e+07
+DSS_ThI: 23.8261
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 1.73913e+07
+GANO_ThI: 23.8261
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 1.73913e+07
+GADSS_ThI: 23.8261
+
+
+APP14
+
+DSS
+LeftCompD: 49376
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.8455
+CustomConvolution 
+LeftCompD: 33276
+LeftCommD: 3326
+ExpoCommD: 576
+Comp/Comm Weight: 10.0048
+HarrisCorners 
+LeftCompD: 27004
+LeftCommD: 3326
+ExpoCommD: 688
+Comp/Comm Weight: 8.11906
+ColorConvert 
+LeftCompD: 22564
+LeftCommD: 3326
+ExpoCommD: 1404
+Comp/Comm Weight: 6.78413
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.23369
+G0nrChm: 29
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.93779
+G1nrChm: 4690
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.93779
+G2nrChm: 5614
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.93779
+G3nrChm: 7929
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.93779
+G4nrChm: 9211
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.93779
+G5nrChm: 9776
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 7.93779
+G6nrChm: 10421
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 7.93779
+G7nrChm: 11052
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 7.93779
+G8nrChm: 11626
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 7.93779
+G9nrChm: 11696
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 7.93779
+G10nrChm: 12128
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 6.86481
+G0nrChm: 29
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution HarrisCorners 
+
+G1Result: 7.53451
+G1nrChm: 101
+G1FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.93779
+G2nrChm: 124
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.93779
+G3nrChm: 154
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.93779
+G4nrChm: 187
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.93779
+G5nrChm: 213
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 7.93779
+G6nrChm: 232
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 7.93779
+G7nrChm: 267
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 7.93779
+G8nrChm: 302
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 7.93779
+G9nrChm: 333
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 7.93779
+G10nrChm: 353
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP14
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 7.40247e+06
+DSS_ThI: 10.8816
+GANOFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GANO_Th: 7.40247e+06
+GANO_ThI: 10.8816
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 7.40247e+06
+GADSS_ThI: 10.8816
+
+
+APP15
+
+DSS
+LeftCompD: 49916
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.8295
+CustomConvolution 
+LeftCompD: 33356
+LeftCommD: 3366
+ExpoCommD: 608
+Comp/Comm Weight: 9.90969
+HarrisCorners 
+LeftCompD: 27084
+LeftCommD: 3366
+ExpoCommD: 720
+Comp/Comm Weight: 8.04635
+ColorConvert 
+LeftCompD: 22644
+LeftCommD: 3366
+ExpoCommD: 1428
+Comp/Comm Weight: 6.72727
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 6.93128
+G0nrChm: 27
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.80456
+G1nrChm: 4792
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 7.80456
+G2nrChm: 5717
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 7.80456
+G3nrChm: 6555
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 7.80456
+G4nrChm: 6891
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 7.80456
+G5nrChm: 7850
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 7.80456
+G6nrChm: 8421
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 7.80456
+G7nrChm: 8703
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.80456
+G8nrChm: 9721
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.80456
+G9nrChm: 10119
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.80456
+G10nrChm: 10840
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 6.59575
+G0nrChm: 28
+G0FB: Box3mul3 ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 7.80456
+G1nrChm: 123
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 7.80456
+G2nrChm: 149
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 7.80456
+G3nrChm: 192
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 7.80456
+G4nrChm: 213
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 7.80456
+G5nrChm: 230
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 7.80456
+G6nrChm: 265
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 7.80456
+G7nrChm: 300
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.80456
+G8nrChm: 324
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.80456
+G9nrChm: 350
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.80456
+G10nrChm: 364
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP15
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.85225e+07
+DSS_ThI: 22.6754
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 2.85225e+07
+GANO_ThI: 22.6754
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 2.85225e+07
+GADSS_ThI: 22.6754
+
+
+APP16
+
+DSS
+LeftCompD: 49344
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 14.98
+CustomConvolution 
+LeftCompD: 33244
+LeftCommD: 3294
+ExpoCommD: 576
+Comp/Comm Weight: 10.0923
+HarrisCorners 
+LeftCompD: 26972
+LeftCommD: 3294
+ExpoCommD: 688
+Comp/Comm Weight: 8.18822
+ColorConvert 
+LeftCompD: 22532
+LeftCommD: 3294
+ExpoCommD: 1404
+Comp/Comm Weight: 6.84032
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.29157
+G0nrChm: 26
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 8.04966
+G1nrChm: 3639
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.04966
+G2nrChm: 6178
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.04966
+G3nrChm: 6915
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.04966
+G4nrChm: 7261
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.04966
+G5nrChm: 8032
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.04966
+G6nrChm: 8755
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.04966
+G7nrChm: 9098
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.04966
+G8nrChm: 9309
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.04966
+G9nrChm: 9982
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.04966
+G10nrChm: 10379
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.29157
+G0nrChm: 26
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.38208
+G1nrChm: 67
+G1FB: ColorConvert CustomConvolution Gaussian3mul3 Thresholding 
+
+G2Result: 7.99567
+G2nrChm: 112
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.99567
+G3nrChm: 148
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.99567
+G4nrChm: 182
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.99567
+G5nrChm: 217
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.04966
+G6nrChm: 245
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.04966
+G7nrChm: 275
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.04966
+G8nrChm: 295
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.04966
+G9nrChm: 317
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.04966
+G10nrChm: 344
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP16
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.28454e+07
+DSS_ThI: 8.62414
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 3.47464e+07
+GANO_ThI: 13.1167
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 3.47464e+07
+GADSS_ThI: 13.1167
+
+
+APP17
+
+DSS
+LeftCompD: 50496
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 15.0018
+CustomConvolution 
+LeftCompD: 33476
+LeftCommD: 3366
+ExpoCommD: 624
+Comp/Comm Weight: 9.94534
+HarrisCorners 
+LeftCompD: 27204
+LeftCommD: 3366
+ExpoCommD: 736
+Comp/Comm Weight: 8.082
+ColorConvert 
+LeftCompD: 22616
+LeftCommD: 3366
+ExpoCommD: 1468
+Comp/Comm Weight: 6.71895
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.33731
+G0nrChm: 29
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 HarrisCorners 
+
+G1Result: 8.36034
+G1nrChm: 3994
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.36034
+G2nrChm: 5124
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.36034
+G3nrChm: 5944
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.36034
+G4nrChm: 6648
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.36034
+G5nrChm: 7684
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.36034
+G6nrChm: 8989
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.36034
+G7nrChm: 10357
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.36034
+G8nrChm: 10723
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.36034
+G9nrChm: 11113
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.36034
+G10nrChm: 11722
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.21002
+G0nrChm: 27
+G0FB: ColorConvert CustomConvolution EqualizeHistogram HarrisCorners 
+
+G1Result: 7.48706
+G1nrChm: 84
+G1FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G2Result: 8.19116
+G2nrChm: 150
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.19116
+G3nrChm: 197
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.19116
+G4nrChm: 220
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.19116
+G5nrChm: 259
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.19116
+G6nrChm: 290
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.19116
+G7nrChm: 311
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.19116
+G8nrChm: 329
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.19116
+G9nrChm: 359
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.19116
+G10nrChm: 374
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP17
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 5.71429e+07
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 5.71429e+07
+GANO_ThI: 1
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 5.71429e+07
+GADSS_ThI: 1
+
+
+APP18
+
+DSS
+LeftCompD: 49128
+LeftCommD: 3350
+ExpoCommD: 0
+Comp/Comm Weight: 14.6651
+CustomConvolution 
+LeftCompD: 33488
+LeftCommD: 3350
+ExpoCommD: 584
+Comp/Comm Weight: 9.99642
+HarrisCorners 
+LeftCompD: 27216
+LeftCommD: 3350
+ExpoCommD: 696
+Comp/Comm Weight: 8.12418
+ColorConvert 
+LeftCompD: 22628
+LeftCommD: 3350
+ExpoCommD: 1428
+Comp/Comm Weight: 6.75463
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 6.7109
+G0nrChm: 24
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution OpticalFlowPyramid 
+
+G1Result: 7.85681
+G1nrChm: 4369
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 7.85681
+G2nrChm: 5848
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 7.85681
+G3nrChm: 6335
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 7.85681
+G4nrChm: 7037
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 7.85681
+G5nrChm: 7410
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 7.85681
+G6nrChm: 7984
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 7.85681
+G7nrChm: 8678
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.85681
+G8nrChm: 9298
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.85681
+G9nrChm: 9570
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.85681
+G10nrChm: 9661
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.01172
+G0nrChm: 25
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 OpticalFlowPyramid 
+
+G1Result: 7.68763
+G1nrChm: 98
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.68763
+G2nrChm: 143
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.68763
+G3nrChm: 169
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.68763
+G4nrChm: 199
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.85681
+G5nrChm: 235
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 7.85681
+G6nrChm: 263
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 7.85681
+G7nrChm: 283
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 7.85681
+G8nrChm: 308
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 7.85681
+G9nrChm: 333
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 7.85681
+G10nrChm: 352
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP18
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 1.15942e+07
+DSS_ThI: 20.6377
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 1.15942e+07
+GANO_ThI: 20.6377
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 1.15942e+07
+GADSS_ThI: 20.6377
+
+
+APP19
+
+DSS
+LeftCompD: 49372
+LeftCommD: 3286
+ExpoCommD: 0
+Comp/Comm Weight: 15.025
+CustomConvolution 
+LeftCompD: 33272
+LeftCommD: 3286
+ExpoCommD: 576
+Comp/Comm Weight: 10.1254
+HarrisCorners 
+LeftCompD: 27000
+LeftCommD: 3286
+ExpoCommD: 688
+Comp/Comm Weight: 8.21668
+ColorConvert 
+LeftCompD: 22560
+LeftCommD: 3286
+ExpoCommD: 1396
+Comp/Comm Weight: 6.86549
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.94683
+G0nrChm: 29
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.11601
+G1nrChm: 4084
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.11601
+G2nrChm: 5022
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.11601
+G3nrChm: 5907
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.11601
+G4nrChm: 7070
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.11601
+G5nrChm: 8525
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.11601
+G6nrChm: 9237
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.11601
+G7nrChm: 10173
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.11601
+G8nrChm: 10681
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.11601
+G9nrChm: 11234
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.11601
+G10nrChm: 11463
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.94683
+G0nrChm: 24
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.11601
+G1nrChm: 88
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.11601
+G2nrChm: 118
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.11601
+G3nrChm: 165
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.11601
+G4nrChm: 197
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.11601
+G5nrChm: 224
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.11601
+G6nrChm: 261
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.11601
+G7nrChm: 289
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.11601
+G8nrChm: 304
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.11601
+G9nrChm: 314
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.11601
+G10nrChm: 339
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP19
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.85531e+07
+DSS_ThI: 10.5289
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 2.85531e+07
+GANO_ThI: 10.5289
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 2.85531e+07
+GADSS_ThI: 10.5289
+
+
+APP20
+
+DSS
+LeftCompD: 49572
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.6924
+CustomConvolution 
+LeftCompD: 32552
+LeftCommD: 3374
+ExpoCommD: 624
+Comp/Comm Weight: 9.6479
+HarrisCorners 
+LeftCompD: 26280
+LeftCommD: 3374
+ExpoCommD: 736
+Comp/Comm Weight: 7.78897
+ColorConvert 
+LeftCompD: 21840
+LeftCommD: 3374
+ExpoCommD: 1444
+Comp/Comm Weight: 6.47303
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.78332
+G0nrChm: 26
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.35578
+G1nrChm: 4136
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.35578
+G2nrChm: 5597
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35578
+G3nrChm: 6756
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35578
+G4nrChm: 7944
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35578
+G5nrChm: 8569
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35578
+G6nrChm: 9249
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35578
+G7nrChm: 9710
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35578
+G8nrChm: 9866
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35578
+G9nrChm: 10423
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35578
+G10nrChm: 10803
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.57301
+G0nrChm: 26
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 Thresholding 
+
+G1Result: 7.78332
+G1nrChm: 103
+G1FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.35578
+G2nrChm: 132
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35578
+G3nrChm: 166
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35578
+G4nrChm: 199
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35578
+G5nrChm: 238
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35578
+G6nrChm: 262
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35578
+G7nrChm: 287
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35578
+G8nrChm: 324
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35578
+G9nrChm: 347
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35578
+G10nrChm: 382
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP20
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 961511
+DSS_ThI: 1.17785
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 961511
+GANO_ThI: 1.17785
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 961511
+GADSS_ThI: 1.17785
+
+
+APP21
+
+DSS
+LeftCompD: 50332
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.2799
+CustomConvolution 
+LeftCompD: 33312
+LeftCommD: 3294
+ExpoCommD: 624
+Comp/Comm Weight: 10.1129
+HarrisCorners 
+LeftCompD: 27040
+LeftCommD: 3294
+ExpoCommD: 736
+Comp/Comm Weight: 8.20886
+ColorConvert 
+LeftCompD: 22452
+LeftCommD: 3294
+ExpoCommD: 1468
+Comp/Comm Weight: 6.81603
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 8.19116
+G0nrChm: 27
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.36034
+G1nrChm: 4055
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.36034
+G2nrChm: 5050
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.36034
+G3nrChm: 6159
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.36034
+G4nrChm: 6887
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.36034
+G5nrChm: 7750
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.36034
+G6nrChm: 8765
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.36034
+G7nrChm: 9156
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.36034
+G8nrChm: 9494
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.36034
+G9nrChm: 9850
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.36034
+G10nrChm: 10438
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.78788
+G0nrChm: 28
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.19116
+G1nrChm: 115
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.19116
+G2nrChm: 146
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.19116
+G3nrChm: 189
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.19116
+G4nrChm: 207
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.19116
+G5nrChm: 240
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.19116
+G6nrChm: 262
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.19116
+G7nrChm: 289
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.19116
+G8nrChm: 304
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.19116
+G9nrChm: 333
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.19116
+G10nrChm: 358
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP21
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 3.63636e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 3.63636e+06
+GANO_ThI: 1
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 3.63636e+06
+GADSS_ThI: 1
+
+
+APP22
+
+DSS
+LeftCompD: 48060
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.4498
+CustomConvolution 
+LeftCompD: 31040
+LeftCommD: 3326
+ExpoCommD: 624
+Comp/Comm Weight: 9.33253
+HarrisCorners 
+LeftCompD: 25664
+LeftCommD: 3326
+ExpoCommD: 720
+Comp/Comm Weight: 7.71618
+ColorConvert 
+LeftCompD: 21224
+LeftCommD: 3326
+ExpoCommD: 1428
+Comp/Comm Weight: 6.38124
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.63724
+G0nrChm: 27
+G0FB: ColorConvert CustomConvolution EqualizeHistogram OpticalFlowPyramid 
+
+G1Result: 8.35873
+G1nrChm: 3507
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.35873
+G2nrChm: 4412
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35873
+G3nrChm: 5468
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35873
+G4nrChm: 6746
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35873
+G5nrChm: 7465
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35873
+G6nrChm: 8088
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35873
+G7nrChm: 8616
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35873
+G8nrChm: 9827
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35873
+G9nrChm: 10031
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35873
+G10nrChm: 11046
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.78627
+G0nrChm: 28
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.18955
+G1nrChm: 86
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.18955
+G2nrChm: 115
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.18955
+G3nrChm: 140
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.18955
+G4nrChm: 172
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.18955
+G5nrChm: 206
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.35873
+G6nrChm: 234
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35873
+G7nrChm: 254
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35873
+G8nrChm: 276
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35873
+G9nrChm: 297
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35873
+G10nrChm: 314
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP22
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.20987e+06
+DSS_ThI: 1.72094
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 1.36517e+06
+GANO_ThI: 1.06313
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 1.36517e+06
+GADSS_ThI: 1.06313
+
+
+APP23
+
+DSS
+LeftCompD: 49864
+LeftCommD: 3316
+ExpoCommD: 0
+Comp/Comm Weight: 15.0374
+CustomConvolution 
+LeftCompD: 32844
+LeftCommD: 3316
+ExpoCommD: 624
+Comp/Comm Weight: 9.9047
+HarrisCorners 
+LeftCompD: 26572
+LeftCommD: 3316
+ExpoCommD: 736
+Comp/Comm Weight: 8.01327
+ColorConvert 
+LeftCompD: 22132
+LeftCommD: 3316
+ExpoCommD: 1444
+Comp/Comm Weight: 6.67431
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.60576
+G0nrChm: 28
+G0FB: ColorConvert CustomConvolution Dilate3mul3 EqualizeHistogram 
+
+G1Result: 8.3316
+G1nrChm: 3251
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.3316
+G2nrChm: 4940
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.3316
+G3nrChm: 6177
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.3316
+G4nrChm: 7036
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.3316
+G5nrChm: 7917
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.3316
+G6nrChm: 8763
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.3316
+G7nrChm: 9774
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.3316
+G8nrChm: 10724
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.3316
+G9nrChm: 10921
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.3316
+G10nrChm: 11298
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.47785
+G0nrChm: 30
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.47785
+G1nrChm: 99
+G1FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G2Result: 8.02597
+G2nrChm: 149
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G3Result: 8.16242
+G3nrChm: 182
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.16242
+G4nrChm: 220
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.16242
+G5nrChm: 249
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.16242
+G6nrChm: 268
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.16242
+G7nrChm: 303
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.16242
+G8nrChm: 333
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.16242
+G9nrChm: 361
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.3316
+G10nrChm: 382
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP23
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 1.94163e+06
+DSS_ThI: 1.35914
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 3.02975e+06
+GANO_ThI: 2.12083
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 3.02975e+06
+GADSS_ThI: 2.12083
+
+
+APP24
+
+DSS
+LeftCompD: 49636
+LeftCommD: 3310
+ExpoCommD: 0
+Comp/Comm Weight: 14.9958
+CustomConvolution 
+LeftCompD: 33076
+LeftCommD: 3310
+ExpoCommD: 608
+Comp/Comm Weight: 9.99275
+HarrisCorners 
+LeftCompD: 26804
+LeftCommD: 3310
+ExpoCommD: 720
+Comp/Comm Weight: 8.09789
+ColorConvert 
+LeftCompD: 22364
+LeftCommD: 3310
+ExpoCommD: 1420
+Comp/Comm Weight: 6.7565
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.28671
+G0nrChm: 27
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 HarrisCorners 
+
+G1Result: 8.29568
+G1nrChm: 3595
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.29568
+G2nrChm: 4947
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.29568
+G3nrChm: 6725
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.29568
+G4nrChm: 7037
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.29568
+G5nrChm: 7744
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.29568
+G6nrChm: 8357
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.29568
+G7nrChm: 9031
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.29568
+G8nrChm: 9372
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.29568
+G9nrChm: 9880
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.29568
+G10nrChm: 10165
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.95232
+G0nrChm: 24
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 Magnitude 
+
+G1Result: 8.14056
+G1nrChm: 82
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.14056
+G2nrChm: 117
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.14056
+G3nrChm: 161
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.14056
+G4nrChm: 200
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.14056
+G5nrChm: 236
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.14056
+G6nrChm: 266
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.14056
+G7nrChm: 291
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.14056
+G8nrChm: 323
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.14056
+G9nrChm: 349
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.29568
+G10nrChm: 370
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP24
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.5969e+06
+DSS_ThI: 2.97345
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 3.07593e+06
+GANO_ThI: 3.52194
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 3.07593e+06
+GADSS_ThI: 3.52194
+
+
+APP25
+
+DSS
+LeftCompD: 49460
+LeftCommD: 3278
+ExpoCommD: 0
+Comp/Comm Weight: 15.0885
+CustomConvolution 
+LeftCompD: 32900
+LeftCommD: 3278
+ExpoCommD: 584
+Comp/Comm Weight: 10.0366
+HarrisCorners 
+LeftCompD: 26628
+LeftCommD: 3278
+ExpoCommD: 696
+Comp/Comm Weight: 8.12325
+ColorConvert 
+LeftCompD: 22188
+LeftCommD: 3278
+ExpoCommD: 1380
+Comp/Comm Weight: 6.76876
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.08599
+G0nrChm: 28
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution HarrisCorners 
+
+G1Result: 8.00298
+G1nrChm: 3529
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G2Result: 8.00298
+G2nrChm: 5672
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G3Result: 8.00298
+G3nrChm: 7234
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G4Result: 8.00298
+G4nrChm: 8300
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G5Result: 8.00298
+G5nrChm: 8848
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G6Result: 8.00298
+G6nrChm: 9945
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G7Result: 8.00298
+G7nrChm: 10346
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G8Result: 8.00298
+G8nrChm: 10632
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G9Result: 8.00298
+G9nrChm: 11002
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G10Result: 8.00298
+G10nrChm: 11548
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+
+
+GADSS
+G0Result: 7.45486
+G0nrChm: 26
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.45486
+G1nrChm: 92
+G1FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G2Result: 7.45486
+G2nrChm: 137
+G2FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G3Result: 7.62781
+G3nrChm: 172
+G3FB: ColorConvert CustomConvolution EqualizeHistogram OpticalFlowPyramid 
+
+G4Result: 7.62781
+G4nrChm: 198
+G4FB: ColorConvert CustomConvolution EqualizeHistogram OpticalFlowPyramid 
+
+G5Result: 7.62781
+G5nrChm: 235
+G5FB: ColorConvert CustomConvolution EqualizeHistogram OpticalFlowPyramid 
+
+G6Result: 7.62781
+G6nrChm: 267
+G6FB: ColorConvert CustomConvolution EqualizeHistogram OpticalFlowPyramid 
+
+G7Result: 7.90051
+G7nrChm: 290
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Magnitude 
+
+G8Result: 7.90051
+G8nrChm: 311
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Magnitude 
+
+G9Result: 8.00298
+G9nrChm: 331
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G10Result: 8.00298
+G10nrChm: 341
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+
+
+APP25
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 1.65256e+06
+DSS_ThI: 2.25575
+GANOFBs: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+GANO_Th: 1.65256e+06
+GANO_ThI: 2.25575
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+GADSS_Th: 1.65256e+06
+GADSS_ThI: 2.25575
+
+
+APP26
+
+DSS
+LeftCompD: 48168
+LeftCommD: 3254
+ExpoCommD: 0
+Comp/Comm Weight: 14.8027
+CustomConvolution 
+LeftCompD: 32988
+LeftCommD: 3254
+ExpoCommD: 560
+Comp/Comm Weight: 10.1377
+HarrisCorners 
+LeftCompD: 26716
+LeftCommD: 3254
+ExpoCommD: 672
+Comp/Comm Weight: 8.2102
+ColorConvert 
+LeftCompD: 22128
+LeftCommD: 3254
+ExpoCommD: 1404
+Comp/Comm Weight: 6.80025
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.18501
+G0nrChm: 26
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Magnitude 
+
+G1Result: 8.26206
+G1nrChm: 4110
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.26206
+G2nrChm: 6045
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.26206
+G3nrChm: 7251
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.26206
+G4nrChm: 7619
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.26206
+G5nrChm: 8524
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.26206
+G6nrChm: 8731
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.26206
+G7nrChm: 9184
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.26206
+G8nrChm: 9770
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.26206
+G9nrChm: 9963
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.26206
+G10nrChm: 10368
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.38878
+G0nrChm: 26
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 8.09288
+G1nrChm: 84
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.09288
+G2nrChm: 115
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.09288
+G3nrChm: 146
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.09288
+G4nrChm: 183
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.09288
+G5nrChm: 237
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.09288
+G6nrChm: 264
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.09288
+G7nrChm: 297
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.09288
+G8nrChm: 329
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.09288
+G9nrChm: 370
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.09288
+G10nrChm: 395
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP26
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 1.66656e+06
+DSS_ThI: 4.83301
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 1.66656e+06
+GANO_ThI: 4.83301
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 1.66656e+06
+GADSS_ThI: 4.83301
+
+
+APP27
+
+DSS
+LeftCompD: 48136
+LeftCommD: 3338
+ExpoCommD: 0
+Comp/Comm Weight: 14.4206
+CustomConvolution 
+LeftCompD: 31116
+LeftCommD: 3338
+ExpoCommD: 624
+Comp/Comm Weight: 9.32175
+HarrisCorners 
+LeftCompD: 25740
+LeftCommD: 3338
+ExpoCommD: 720
+Comp/Comm Weight: 7.7112
+ColorConvert 
+LeftCompD: 21300
+LeftCommD: 3338
+ExpoCommD: 1440
+Comp/Comm Weight: 6.38107
+OpticalFlowPyramid 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert OpticalFlowPyramid 
+
+
+GANO
+G0Result: 8.03253
+G0nrChm: 25
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G1Result: 8.3577
+G1nrChm: 3226
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.3577
+G2nrChm: 4237
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.3577
+G3nrChm: 5832
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.3577
+G4nrChm: 7096
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.3577
+G5nrChm: 8038
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.3577
+G6nrChm: 8838
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.3577
+G7nrChm: 9430
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.3577
+G8nrChm: 9791
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.3577
+G9nrChm: 10146
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.3577
+G10nrChm: 10526
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.18214
+G0nrChm: 28
+G0FB: ColorConvert CustomConvolution EqualizeHistogram HarrisCorners 
+
+G1Result: 8.3577
+G1nrChm: 111
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.3577
+G2nrChm: 145
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.3577
+G3nrChm: 187
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.3577
+G4nrChm: 228
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.3577
+G5nrChm: 264
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.3577
+G6nrChm: 297
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.3577
+G7nrChm: 324
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.3577
+G8nrChm: 366
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.3577
+G9nrChm: 391
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.3577
+G10nrChm: 398
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP27
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert OpticalFlowPyramid 
+DSS_Th: 2.28126e+06
+DSS_ThI: 1.9923
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 1.26313e+06
+GANO_ThI: 1.10313
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 1.26313e+06
+GADSS_ThI: 1.10313
+
+
+APP28
+
+DSS
+LeftCompD: 47352
+LeftCommD: 3346
+ExpoCommD: 0
+Comp/Comm Weight: 14.1518
+CustomConvolution 
+LeftCompD: 30332
+LeftCommD: 3346
+ExpoCommD: 624
+Comp/Comm Weight: 9.06515
+HarrisCorners 
+LeftCompD: 24956
+LeftCommD: 3346
+ExpoCommD: 720
+Comp/Comm Weight: 7.45846
+ColorConvert 
+LeftCompD: 20516
+LeftCommD: 3346
+ExpoCommD: 1440
+Comp/Comm Weight: 6.1315
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.49944
+G0nrChm: 27
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 OpticalFlowPyramid 
+
+G1Result: 8.35905
+G1nrChm: 3739
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.35905
+G2nrChm: 4978
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35905
+G3nrChm: 6314
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35905
+G4nrChm: 7688
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35905
+G5nrChm: 8533
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35905
+G6nrChm: 8820
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35905
+G7nrChm: 9279
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35905
+G8nrChm: 9544
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35905
+G9nrChm: 9940
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35905
+G10nrChm: 10094
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.32411
+G0nrChm: 28
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 HarrisCorners 
+
+G1Result: 8.18987
+G1nrChm: 85
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.35905
+G2nrChm: 119
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35905
+G3nrChm: 149
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35905
+G4nrChm: 174
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35905
+G5nrChm: 192
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35905
+G6nrChm: 229
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35905
+G7nrChm: 250
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35905
+G8nrChm: 285
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35905
+G9nrChm: 314
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35905
+G10nrChm: 335
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP28
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 664425
+DSS_ThI: 2.55139
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 273596
+GANO_ThI: 1.05061
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 273596
+GADSS_ThI: 1.05061
+
+
+APP29
+
+DSS
+LeftCompD: 47920
+LeftCommD: 3314
+ExpoCommD: 0
+Comp/Comm Weight: 14.4599
+CustomConvolution 
+LeftCompD: 31360
+LeftCommD: 3314
+ExpoCommD: 600
+Comp/Comm Weight: 9.46288
+HarrisCorners 
+LeftCompD: 25984
+LeftCommD: 3314
+ExpoCommD: 696
+Comp/Comm Weight: 7.84068
+ColorConvert 
+LeftCompD: 21544
+LeftCommD: 3314
+ExpoCommD: 1416
+Comp/Comm Weight: 6.50091
+OpticalFlowPyramid 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert OpticalFlowPyramid 
+
+
+GANO
+G0Result: 8.02722
+G0nrChm: 29
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G1Result: 8.35239
+G1nrChm: 4304
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.35239
+G2nrChm: 5239
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35239
+G3nrChm: 6901
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35239
+G4nrChm: 7251
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35239
+G5nrChm: 7499
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35239
+G6nrChm: 7872
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35239
+G7nrChm: 8392
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35239
+G8nrChm: 9030
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35239
+G9nrChm: 9429
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35239
+G10nrChm: 10142
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 8.35239
+G0nrChm: 29
+G0FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G1Result: 8.35239
+G1nrChm: 103
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.35239
+G2nrChm: 130
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35239
+G3nrChm: 181
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35239
+G4nrChm: 210
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35239
+G5nrChm: 252
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35239
+G6nrChm: 284
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35239
+G7nrChm: 313
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35239
+G8nrChm: 333
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35239
+G9nrChm: 360
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35239
+G10nrChm: 382
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP29
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert OpticalFlowPyramid 
+DSS_Th: 751820
+DSS_ThI: 2.41334
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 408151
+GANO_ThI: 1.31016
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 408151
+GADSS_ThI: 1.31016
+
+
+APP30
+
+DSS
+LeftCompD: 47812
+LeftCommD: 3314
+ExpoCommD: 0
+Comp/Comm Weight: 14.4273
+CustomConvolution 
+LeftCompD: 31252
+LeftCommD: 3314
+ExpoCommD: 608
+Comp/Comm Weight: 9.4303
+HarrisCorners 
+LeftCompD: 25876
+LeftCommD: 3314
+ExpoCommD: 704
+Comp/Comm Weight: 7.80809
+ColorConvert 
+LeftCompD: 21436
+LeftCommD: 3314
+ExpoCommD: 1424
+Comp/Comm Weight: 6.46832
+OpticalFlowPyramid 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert OpticalFlowPyramid 
+
+
+GANO
+G0Result: 7.30441
+G0nrChm: 23
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 HarrisCorners 
+
+G1Result: 8.35281
+G1nrChm: 3649
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.35281
+G2nrChm: 4600
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35281
+G3nrChm: 5875
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35281
+G4nrChm: 6801
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35281
+G5nrChm: 7201
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35281
+G6nrChm: 8033
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35281
+G7nrChm: 8303
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35281
+G8nrChm: 8576
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35281
+G9nrChm: 8943
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35281
+G10nrChm: 10052
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 8.02764
+G0nrChm: 25
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G1Result: 8.18363
+G1nrChm: 84
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.18363
+G2nrChm: 118
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.35281
+G3nrChm: 166
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35281
+G4nrChm: 201
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35281
+G5nrChm: 233
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35281
+G6nrChm: 248
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35281
+G7nrChm: 282
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35281
+G8nrChm: 302
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35281
+G9nrChm: 333
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35281
+G10nrChm: 350
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP30
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert OpticalFlowPyramid 
+DSS_Th: 682552
+DSS_ThI: 2.28314
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 386838
+GANO_ThI: 1.29397
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 386838
+GADSS_ThI: 1.29397
+
+
+APP31
+
+DSS
+LeftCompD: 49772
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.7867
+CustomConvolution 
+LeftCompD: 33212
+LeftCommD: 3366
+ExpoCommD: 608
+Comp/Comm Weight: 9.8669
+HarrisCorners 
+LeftCompD: 26940
+LeftCommD: 3366
+ExpoCommD: 720
+Comp/Comm Weight: 8.00357
+ColorConvert 
+LeftCompD: 22500
+LeftCommD: 3366
+ExpoCommD: 1436
+Comp/Comm Weight: 6.68449
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.39646
+G0nrChm: 28
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 8.26974
+G1nrChm: 4993
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.26974
+G2nrChm: 6588
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.26974
+G3nrChm: 7668
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.26974
+G4nrChm: 8843
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.26974
+G5nrChm: 9079
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.26974
+G6nrChm: 9279
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.26974
+G7nrChm: 9686
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.26974
+G8nrChm: 10056
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.26974
+G9nrChm: 10361
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.26974
+G10nrChm: 11078
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.69728
+G0nrChm: 27
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.10056
+G1nrChm: 80
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.10056
+G2nrChm: 121
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.10056
+G3nrChm: 161
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.10056
+G4nrChm: 191
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.10056
+G5nrChm: 226
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.10056
+G6nrChm: 248
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.10056
+G7nrChm: 268
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.10056
+G8nrChm: 305
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.10056
+G9nrChm: 330
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.10056
+G10nrChm: 347
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP31
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 4.64987e+06
+DSS_ThI: 4.53362
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 4.64987e+06
+GANO_ThI: 4.53362
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 4.64987e+06
+GADSS_ThI: 4.53362
+
+
+APP32
+
+DSS
+LeftCompD: 49696
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.7641
+CustomConvolution 
+LeftCompD: 33136
+LeftCommD: 3366
+ExpoCommD: 608
+Comp/Comm Weight: 9.84433
+HarrisCorners 
+LeftCompD: 26864
+LeftCommD: 3366
+ExpoCommD: 720
+Comp/Comm Weight: 7.98099
+ColorConvert 
+LeftCompD: 22424
+LeftCommD: 3366
+ExpoCommD: 1436
+Comp/Comm Weight: 6.66191
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.39851
+G0nrChm: 25
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.94663
+G1nrChm: 3582
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G2Result: 7.94663
+G2nrChm: 4950
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G3Result: 7.94663
+G3nrChm: 5844
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G4Result: 7.94663
+G4nrChm: 6816
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G5Result: 7.94663
+G5nrChm: 7363
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G6Result: 7.94663
+G6nrChm: 8803
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G7Result: 7.94663
+G7nrChm: 9242
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G8Result: 7.94663
+G8nrChm: 9542
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G9Result: 7.94663
+G9nrChm: 9710
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G10Result: 7.94663
+G10nrChm: 9948
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+
+
+GADSS
+G0Result: 7.39851
+G0nrChm: 24
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.54478
+G1nrChm: 90
+G1FB: CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram 
+
+G2Result: 7.59802
+G2nrChm: 151
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Magnitude 
+
+G3Result: 7.94663
+G3nrChm: 180
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G4Result: 7.94663
+G4nrChm: 208
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G5Result: 7.94663
+G5nrChm: 225
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G6Result: 7.94663
+G6nrChm: 258
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G7Result: 7.94663
+G7nrChm: 284
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G8Result: 7.94663
+G8nrChm: 304
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G9Result: 7.94663
+G9nrChm: 335
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G10Result: 7.94663
+G10nrChm: 360
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+
+
+APP32
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 4.54422e+06
+DSS_ThI: 4.45333
+GANOFBs: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+GANO_Th: 4.54422e+06
+GANO_ThI: 4.45333
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+GADSS_Th: 4.54422e+06
+GADSS_ThI: 4.45333
+
+
+APP33
+
+DSS
+LeftCompD: 49244
+LeftCommD: 3358
+ExpoCommD: 0
+Comp/Comm Weight: 14.6647
+CustomConvolution 
+LeftCompD: 32224
+LeftCommD: 3358
+ExpoCommD: 624
+Comp/Comm Weight: 9.59619
+HarrisCorners 
+LeftCompD: 26848
+LeftCommD: 3358
+ExpoCommD: 720
+Comp/Comm Weight: 7.99524
+ColorConvert 
+LeftCompD: 22408
+LeftCommD: 3358
+ExpoCommD: 1436
+Comp/Comm Weight: 6.67302
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.5743
+G0nrChm: 26
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 Thresholding 
+
+G1Result: 8.35583
+G1nrChm: 3315
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.35583
+G2nrChm: 4693
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35583
+G3nrChm: 5839
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35583
+G4nrChm: 6883
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35583
+G5nrChm: 7979
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35583
+G6nrChm: 8620
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35583
+G7nrChm: 9133
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35583
+G8nrChm: 9539
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35583
+G9nrChm: 9923
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35583
+G10nrChm: 10153
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.95009
+G0nrChm: 26
+G0FB: ChannelExtract ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.18789
+G1nrChm: 102
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.18789
+G2nrChm: 135
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.18789
+G3nrChm: 174
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.18789
+G4nrChm: 200
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.18789
+G5nrChm: 221
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.18789
+G6nrChm: 246
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.18789
+G7nrChm: 292
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.18789
+G8nrChm: 327
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.18789
+G9nrChm: 343
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.18789
+G10nrChm: 369
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP33
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 3.02975e+06
+DSS_ThI: 4.95364
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 719393
+GANO_ThI: 1.17621
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 689641
+GADSS_ThI: 1.12756
+
+
+APP34
+
+DSS
+LeftCompD: 48860
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 14.833
+CustomConvolution 
+LeftCompD: 33220
+LeftCommD: 3294
+ExpoCommD: 576
+Comp/Comm Weight: 10.085
+HarrisCorners 
+LeftCompD: 26948
+LeftCommD: 3294
+ExpoCommD: 688
+Comp/Comm Weight: 8.18094
+ColorConvert 
+LeftCompD: 22508
+LeftCommD: 3294
+ExpoCommD: 1372
+Comp/Comm Weight: 6.83303
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.89464
+G0nrChm: 24
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 7.89464
+G1nrChm: 4346
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.89464
+G2nrChm: 5659
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.89464
+G3nrChm: 7174
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.89464
+G4nrChm: 8223
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.89464
+G5nrChm: 9021
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 7.89464
+G6nrChm: 10456
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 7.89464
+G7nrChm: 10965
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 7.89464
+G8nrChm: 11268
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 7.89464
+G9nrChm: 11968
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 7.89464
+G10nrChm: 12587
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.19054
+G0nrChm: 26
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.89464
+G1nrChm: 87
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 7.89464
+G2nrChm: 122
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 7.89464
+G3nrChm: 146
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 7.89464
+G4nrChm: 178
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 7.89464
+G5nrChm: 213
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 7.89464
+G6nrChm: 232
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 7.89464
+G7nrChm: 270
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 7.89464
+G8nrChm: 298
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 7.89464
+G9nrChm: 323
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 7.89464
+G10nrChm: 355
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP34
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 6.0551e+06
+DSS_ThI: 12.5643
+GANOFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GANO_Th: 6.0551e+06
+GANO_ThI: 12.5643
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 6.0551e+06
+GADSS_ThI: 12.5643
+
+
+APP35
+
+DSS
+LeftCompD: 49516
+LeftCommD: 3370
+ExpoCommD: 0
+Comp/Comm Weight: 14.6932
+CustomConvolution 
+LeftCompD: 32496
+LeftCommD: 3370
+ExpoCommD: 624
+Comp/Comm Weight: 9.64273
+HarrisCorners 
+LeftCompD: 26224
+LeftCommD: 3370
+ExpoCommD: 736
+Comp/Comm Weight: 7.7816
+ColorConvert 
+LeftCompD: 21784
+LeftCommD: 3370
+ExpoCommD: 1456
+Comp/Comm Weight: 6.46409
+OpticalFlowPyramid 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert OpticalFlowPyramid 
+
+
+GANO
+G0Result: 8.18673
+G0nrChm: 24
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.35591
+G1nrChm: 3248
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.35591
+G2nrChm: 5157
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35591
+G3nrChm: 6962
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35591
+G4nrChm: 7399
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35591
+G5nrChm: 8203
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35591
+G6nrChm: 8880
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35591
+G7nrChm: 9219
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35591
+G8nrChm: 9799
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35591
+G9nrChm: 10190
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35591
+G10nrChm: 10231
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 8.03074
+G0nrChm: 26
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution EqualizeHistogram 
+
+G1Result: 8.18673
+G1nrChm: 107
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.35591
+G2nrChm: 142
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.35591
+G3nrChm: 177
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.35591
+G4nrChm: 220
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.35591
+G5nrChm: 244
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.35591
+G6nrChm: 270
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.35591
+G7nrChm: 304
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.35591
+G8nrChm: 330
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.35591
+G9nrChm: 352
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.35591
+G10nrChm: 372
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP35
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert OpticalFlowPyramid 
+DSS_Th: 934553
+DSS_ThI: 1.17286
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 934553
+GANO_ThI: 1.17286
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 934553
+GADSS_ThI: 1.17286
+
+
+APP36
+
+DSS
+LeftCompD: 48960
+LeftCommD: 3382
+ExpoCommD: 0
+Comp/Comm Weight: 14.4766
+CustomConvolution 
+LeftCompD: 32400
+LeftCommD: 3382
+ExpoCommD: 608
+Comp/Comm Weight: 9.58013
+HarrisCorners 
+LeftCompD: 26128
+LeftCommD: 3382
+ExpoCommD: 720
+Comp/Comm Weight: 7.72561
+ColorConvert 
+LeftCompD: 21540
+LeftCommD: 3382
+ExpoCommD: 1452
+Comp/Comm Weight: 6.36901
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.10776
+G0nrChm: 28
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution HarrisCorners 
+
+G1Result: 8.34833
+G1nrChm: 4582
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.34833
+G2nrChm: 5853
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.34833
+G3nrChm: 6590
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.34833
+G4nrChm: 7240
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.34833
+G5nrChm: 8740
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.34833
+G6nrChm: 9230
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.34833
+G7nrChm: 9779
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.34833
+G8nrChm: 10467
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.34833
+G9nrChm: 11123
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.34833
+G10nrChm: 11692
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.47664
+G0nrChm: 25
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 7.47664
+G1nrChm: 87
+G1FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G2Result: 8.18074
+G2nrChm: 124
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.18074
+G3nrChm: 170
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.18074
+G4nrChm: 210
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.18074
+G5nrChm: 237
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.18074
+G6nrChm: 269
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.18074
+G7nrChm: 296
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.18074
+G8nrChm: 320
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.18074
+G9nrChm: 348
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.18074
+G10nrChm: 362
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP36
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 706709
+DSS_ThI: 1.40635
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 738002
+GANO_ThI: 1.46862
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 706709
+GADSS_ThI: 1.40635
+
+
+APP37
+
+DSS
+LeftCompD: 48244
+LeftCommD: 3238
+ExpoCommD: 0
+Comp/Comm Weight: 14.8993
+CustomConvolution 
+LeftCompD: 32604
+LeftCommD: 3238
+ExpoCommD: 608
+Comp/Comm Weight: 10.0692
+HarrisCorners 
+LeftCompD: 26332
+LeftCommD: 3238
+ExpoCommD: 720
+Comp/Comm Weight: 8.13218
+ColorConvert 
+LeftCompD: 21892
+LeftCommD: 3238
+ExpoCommD: 1404
+Comp/Comm Weight: 6.76096
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.43684
+G0nrChm: 23
+G0FB: CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution 
+
+G1Result: 8.18061
+G1nrChm: 3984
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.18061
+G2nrChm: 5421
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.18061
+G3nrChm: 6172
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.18061
+G4nrChm: 7668
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.18061
+G5nrChm: 8153
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.18061
+G6nrChm: 8957
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.18061
+G7nrChm: 9956
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.18061
+G8nrChm: 10440
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.18061
+G9nrChm: 10906
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.18061
+G10nrChm: 11246
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.36484
+G0nrChm: 24
+G0FB: ColorConvert CustomConvolution Gaussian3mul3 OpticalFlowPyramid 
+
+G1Result: 8.04075
+G1nrChm: 106
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.04075
+G2nrChm: 132
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.04075
+G3nrChm: 168
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.18061
+G4nrChm: 205
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.18061
+G5nrChm: 240
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.18061
+G6nrChm: 275
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.18061
+G7nrChm: 309
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.18061
+G8nrChm: 332
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.18061
+G9nrChm: 348
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.18061
+G10nrChm: 377
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+APP37
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.05109e+06
+DSS_ThI: 2.9587
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 5.55255e+06
+GANO_ThI: 8.00955
+GADSSFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GADSS_Th: 5.55255e+06
+GADSS_ThI: 8.00955
+
+
+APP38
+
+DSS
+LeftCompD: 49580
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.0516
+CustomConvolution 
+LeftCompD: 33020
+LeftCommD: 3294
+ExpoCommD: 608
+Comp/Comm Weight: 10.0243
+HarrisCorners 
+LeftCompD: 26748
+LeftCommD: 3294
+ExpoCommD: 720
+Comp/Comm Weight: 8.12022
+ColorConvert 
+LeftCompD: 22308
+LeftCommD: 3294
+ExpoCommD: 1436
+Comp/Comm Weight: 6.77231
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.63962
+G0nrChm: 27
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Magnitude 
+
+G1Result: 8.3134
+G1nrChm: 2886
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.3134
+G2nrChm: 4727
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.3134
+G3nrChm: 5381
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.3134
+G4nrChm: 6308
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.3134
+G5nrChm: 6659
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.3134
+G6nrChm: 6961
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.3134
+G7nrChm: 7453
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.3134
+G8nrChm: 7846
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.3134
+G9nrChm: 8156
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.3134
+G10nrChm: 8610
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 8.14422
+G0nrChm: 28
+G0FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.14422
+G1nrChm: 101
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.14422
+G2nrChm: 148
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.14422
+G3nrChm: 176
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.14422
+G4nrChm: 207
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.14422
+G5nrChm: 233
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.14422
+G6nrChm: 251
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.14422
+G7nrChm: 283
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.14422
+G8nrChm: 312
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.14422
+G9nrChm: 348
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.14422
+G10nrChm: 380
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP38
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 2.40929e+06
+DSS_ThI: 2.83092
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 2.40929e+06
+GANO_ThI: 2.83092
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 2.40929e+06
+GADSS_ThI: 2.83092
+
+
+APP39
+
+DSS
+LeftCompD: 50328
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.9164
+CustomConvolution 
+LeftCompD: 33308
+LeftCommD: 3374
+ExpoCommD: 624
+Comp/Comm Weight: 9.87196
+HarrisCorners 
+LeftCompD: 27036
+LeftCommD: 3374
+ExpoCommD: 736
+Comp/Comm Weight: 8.01304
+ColorConvert 
+LeftCompD: 22448
+LeftCommD: 3374
+ExpoCommD: 1468
+Comp/Comm Weight: 6.65323
+CannyEdgeDetector 
+Selected FBs:
+CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+
+
+GANO
+G0Result: 7.47084
+G0nrChm: 25
+G0FB: ColorConvert CustomConvolution EqualizeHistogram LaplacianPyramid 
+
+G1Result: 8.34851
+G1nrChm: 4333
+G1FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G2Result: 8.34851
+G2nrChm: 5432
+G2FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G3Result: 8.34851
+G3nrChm: 6778
+G3FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G4Result: 8.34851
+G4nrChm: 7721
+G4FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G5Result: 8.34851
+G5nrChm: 9052
+G5FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G6Result: 8.34851
+G6nrChm: 9850
+G6FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G7Result: 8.34851
+G7nrChm: 10871
+G7FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G8Result: 8.34851
+G8nrChm: 11328
+G8FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G9Result: 8.34851
+G9nrChm: 12136
+G9FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+G10Result: 8.34851
+G10nrChm: 12354
+G10FB: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+
+
+
+GADSS
+G0Result: 7.78788
+G0nrChm: 27
+G0FB: CannyEdgeDetector ColorConvert CustomConvolution Gaussian3mul3 
+
+G1Result: 8.19116
+G1nrChm: 102
+G1FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G2Result: 8.19116
+G2nrChm: 153
+G2FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G3Result: 8.19116
+G3nrChm: 200
+G3FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G4Result: 8.19116
+G4nrChm: 229
+G4FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G5Result: 8.19116
+G5nrChm: 266
+G5FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G6Result: 8.19116
+G6nrChm: 287
+G6FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G7Result: 8.19116
+G7nrChm: 300
+G7FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G8Result: 8.19116
+G8nrChm: 326
+G8FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G9Result: 8.19116
+G9nrChm: 349
+G9FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+G10Result: 8.19116
+G10nrChm: 375
+G10FB: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+
+
+
+APP39
+
+DSSFBs: CustomConvolution HarrisCorners ColorConvert CannyEdgeDetector 
+DSS_Th: 5.26316e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 
+GANO_Th: 7.69172e+06
+GANO_ThI: 1.46143
+GADSSFBs: CannyEdgeDectector ColorConvert CustomConvolution Gaussian3mul3 
+GADSS_Th: 5.26316e+06
+GADSS_ThI: 1
+
+

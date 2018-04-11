@@ -1,0 +1,16 @@
+ChannelExtract_1 SW0
+ChannelExtract_0 SW0
+ChannelExtract_2 SW0
+ArithmeticSubtraction_0 SW0
+ArithmeticSubtraction_1 SW0
+Thresholding_0 SW0
+Thresholding_1 SW0
+Thresholding_2 SW0
+Thresholding_3 SW0
+Thresholding_4 SW0
+AND_0 FB2
+AND_1 FB2
+AND_2 FB2
+AND_3 FB2
+Input SW0
+Output SW0

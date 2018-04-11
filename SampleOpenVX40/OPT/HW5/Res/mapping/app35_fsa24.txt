@@ -1,0 +1,7 @@
+ChannelExtract_0 SW0
+CannyEdgeDetector_0 SW0
+ColorConvert_0 FB3
+Input SW0
+Output SW0
+AbsoluteDifference_0 SW0
+MyKernel SW0

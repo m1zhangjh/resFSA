@@ -1,0 +1,4963 @@
+SW Throughput: 
+6.25e+06 1.90476e+06 1.25786e+06 1.40351e+07 3.92157e+06 955414 1.12994e+06 3.7037e+06 1.30293e+06 2.04082e+06 1.20482e+06 497512 1.41844e+06 729927 680272 1.25786e+06 2.64901e+06 5.71429e+07 561798 2.71186e+06 816327 3.63636e+06 1.28411e+06 1.42857e+06 873362 732601 344828 1.14504e+06 260417 311526 298954 1.02564e+06 1.02041e+06 611621 481928 796813 502513 693241 851064 5.26316e+06 
+
+APP0
+
+DSS
+LeftCompD: 50168
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.2301
+CustomConvolution 
+LeftCompD: 33148
+LeftCommD: 3294
+ExpoCommD: 624
+Comp/Comm Weight: 10.0631
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.65382
+G0nrChm: 19
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.65382
+G1nrChm: 406
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.65382
+G2nrChm: 525
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.65382
+G3nrChm: 559
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.65382
+G4nrChm: 561
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.65382
+G5nrChm: 568
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.65382
+G6nrChm: 569
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.65382
+G7nrChm: 576
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.65382
+G8nrChm: 576
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.65382
+G9nrChm: 576
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.65382
+G10nrChm: 576
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.65382
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.65382
+G1nrChm: 39
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.65382
+G2nrChm: 55
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.65382
+G3nrChm: 67
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.65382
+G4nrChm: 73
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.65382
+G5nrChm: 79
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.65382
+G6nrChm: 83
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.65382
+G7nrChm: 88
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.65382
+G8nrChm: 89
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.65382
+G9nrChm: 95
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.65382
+G10nrChm: 97
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP0
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 6.25e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.72504e+07
+GANO_ThI: 4.36007
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.72504e+07
+GADSS_ThI: 4.36007
+
+
+APP1
+
+DSS
+LeftCompD: 50132
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 15.0728
+CustomConvolution 
+LeftCompD: 33112
+LeftCommD: 3326
+ExpoCommD: 624
+Comp/Comm Weight: 9.9555
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.72602
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.72602
+G1nrChm: 410
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.72602
+G2nrChm: 426
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.72602
+G3nrChm: 480
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.72602
+G4nrChm: 493
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.72602
+G5nrChm: 493
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.72602
+G6nrChm: 493
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.72602
+G7nrChm: 493
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.72602
+G8nrChm: 493
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.72602
+G9nrChm: 493
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.72602
+G10nrChm: 504
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.72602
+G0nrChm: 19
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.72602
+G1nrChm: 37
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.72602
+G2nrChm: 46
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.72602
+G3nrChm: 50
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.72602
+G4nrChm: 56
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.72602
+G5nrChm: 62
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.72602
+G6nrChm: 68
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.72602
+G7nrChm: 77
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.72602
+G8nrChm: 82
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.72602
+G9nrChm: 87
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.72602
+G10nrChm: 95
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP1
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.90476e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.94092e+06
+GANO_ThI: 1.54398
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.94092e+06
+GADSS_ThI: 1.54398
+
+
+APP2
+
+DSS
+LeftCompD: 49756
+LeftCommD: 3270
+ExpoCommD: 0
+Comp/Comm Weight: 15.2159
+CustomConvolution 
+LeftCompD: 32736
+LeftCommD: 3270
+ExpoCommD: 624
+Comp/Comm Weight: 10.011
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73997
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 460
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 513
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 529
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 548
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 551
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 551
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 551
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 552
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 552
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 552
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73997
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 42
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 48
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 52
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 56
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 64
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 68
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 72
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 80
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 85
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 88
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP2
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.25786e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.25786e+06
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.25786e+06
+GADSS_ThI: 1
+
+
+APP3
+
+DSS
+LeftCompD: 50196
+LeftCommD: 3334
+ExpoCommD: 0
+Comp/Comm Weight: 15.0558
+CustomConvolution 
+LeftCompD: 33176
+LeftCommD: 3334
+ExpoCommD: 624
+Comp/Comm Weight: 9.95081
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.69257
+G0nrChm: 16
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.69257
+G1nrChm: 286
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.69257
+G2nrChm: 409
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.69257
+G3nrChm: 409
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.69257
+G4nrChm: 484
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.69257
+G5nrChm: 484
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.69257
+G6nrChm: 496
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.69257
+G7nrChm: 496
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.69257
+G8nrChm: 517
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.69257
+G9nrChm: 526
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.69257
+G10nrChm: 526
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.69257
+G0nrChm: 16
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.69257
+G1nrChm: 38
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.69257
+G2nrChm: 57
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.69257
+G3nrChm: 66
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.69257
+G4nrChm: 77
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.69257
+G5nrChm: 83
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.69257
+G6nrChm: 88
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.69257
+G7nrChm: 89
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.69257
+G8nrChm: 91
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.69257
+G9nrChm: 91
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.69257
+G10nrChm: 95
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP3
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.40351e+07
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 3.9984e+07
+GANO_ThI: 2.84886
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 3.9984e+07
+GADSS_ThI: 2.84886
+
+
+APP4
+
+DSS
+LeftCompD: 50220
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.8844
+CustomConvolution 
+LeftCompD: 33200
+LeftCommD: 3374
+ExpoCommD: 624
+Comp/Comm Weight: 9.83995
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 3.40063
+G0nrChm: 21
+G0FB: CannyEdgeDectector CustomConvolution 
+
+G1Result: 5.67225
+G1nrChm: 445
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.67225
+G2nrChm: 461
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.67225
+G3nrChm: 477
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.67225
+G4nrChm: 492
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.67225
+G5nrChm: 507
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.67225
+G6nrChm: 531
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.67225
+G7nrChm: 542
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.67225
+G8nrChm: 542
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.67225
+G9nrChm: 542
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.67225
+G10nrChm: 581
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.67225
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.67225
+G1nrChm: 44
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.67225
+G2nrChm: 55
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.67225
+G3nrChm: 64
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.67225
+G4nrChm: 68
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.67225
+G5nrChm: 75
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.67225
+G6nrChm: 81
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.67225
+G7nrChm: 87
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.67225
+G8nrChm: 92
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.67225
+G9nrChm: 95
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.67225
+G10nrChm: 100
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP4
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 3.92157e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.42796e+07
+GANO_ThI: 3.6413
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.42796e+07
+GADSS_ThI: 3.6413
+
+
+APP5
+
+DSS
+LeftCompD: 48040
+LeftCommD: 3342
+ExpoCommD: 0
+Comp/Comm Weight: 14.3746
+CustomConvolution 
+LeftCompD: 31020
+LeftCommD: 3342
+ExpoCommD: 624
+Comp/Comm Weight: 9.28187
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73997
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 374
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 434
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 469
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 469
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 469
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 477
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 491
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 491
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 491
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 491
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73997
+G0nrChm: 15
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 38
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 47
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 55
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 59
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 60
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 66
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 70
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 78
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 83
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 85
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP5
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 955414
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 955414
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 955414
+GADSS_ThI: 1
+
+
+APP6
+
+DSS
+LeftCompD: 49772
+LeftCommD: 3358
+ExpoCommD: 0
+Comp/Comm Weight: 14.8219
+CustomConvolution 
+LeftCompD: 33212
+LeftCommD: 3358
+ExpoCommD: 608
+Comp/Comm Weight: 9.89041
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.58416
+G0nrChm: 15
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.58416
+G1nrChm: 397
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.58416
+G2nrChm: 415
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.58416
+G3nrChm: 447
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.58416
+G4nrChm: 501
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.58416
+G5nrChm: 501
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.58416
+G6nrChm: 501
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.58416
+G7nrChm: 501
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.58416
+G8nrChm: 511
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.58416
+G9nrChm: 526
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.58416
+G10nrChm: 534
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.58416
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.58416
+G1nrChm: 33
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.58416
+G2nrChm: 45
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.58416
+G3nrChm: 51
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.58416
+G4nrChm: 63
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.58416
+G5nrChm: 69
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.58416
+G6nrChm: 75
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.58416
+G7nrChm: 85
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.58416
+G8nrChm: 87
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.58416
+G9nrChm: 91
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.58416
+G10nrChm: 98
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP6
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 3.2257e+06
+DSS_ThI: 2.85475
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 7.99616e+06
+GANO_ThI: 7.0766
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 7.99616e+06
+GADSS_ThI: 7.0766
+
+
+APP7
+
+DSS
+LeftCompD: 49952
+LeftCommD: 3382
+ExpoCommD: 0
+Comp/Comm Weight: 14.77
+CustomConvolution 
+LeftCompD: 32932
+LeftCommD: 3382
+ExpoCommD: 624
+Comp/Comm Weight: 9.73743
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73997
+G0nrChm: 16
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 387
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 423
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 428
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 459
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 473
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 486
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 486
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 486
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 547
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 547
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 3.40063
+G0nrChm: 21
+G0FB: CannyEdgeDectector CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 47
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 52
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 59
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 69
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 76
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 80
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 83
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 88
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 96
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 99
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP7
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 3.7037e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 3.7037e+06
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 3.7037e+06
+GADSS_ThI: 1
+
+
+APP8
+
+DSS
+LeftCompD: 47516
+LeftCommD: 3270
+ExpoCommD: 0
+Comp/Comm Weight: 14.5309
+CustomConvolution 
+LeftCompD: 30496
+LeftCommD: 3270
+ExpoCommD: 624
+Comp/Comm Weight: 9.32599
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73833
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73833
+G1nrChm: 361
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73833
+G2nrChm: 400
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73833
+G3nrChm: 418
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73833
+G4nrChm: 418
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73833
+G5nrChm: 418
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73833
+G6nrChm: 445
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73833
+G7nrChm: 445
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73833
+G8nrChm: 491
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73833
+G9nrChm: 491
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73833
+G10nrChm: 530
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73833
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73833
+G1nrChm: 37
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73833
+G2nrChm: 49
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73833
+G3nrChm: 58
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73833
+G4nrChm: 67
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73833
+G5nrChm: 72
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73833
+G6nrChm: 78
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73833
+G7nrChm: 85
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73833
+G8nrChm: 86
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73833
+G9nrChm: 91
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73833
+G10nrChm: 94
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP8
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 2.05127e+06
+DSS_ThI: 1.57435
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.38647e+06
+GANO_ThI: 1.06411
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.38647e+06
+GADSS_ThI: 1.06411
+
+
+APP9
+
+DSS
+LeftCompD: 49920
+LeftCommD: 3310
+ExpoCommD: 0
+Comp/Comm Weight: 15.0816
+CustomConvolution 
+LeftCompD: 32900
+LeftCommD: 3310
+ExpoCommD: 624
+Comp/Comm Weight: 9.93958
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73997
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 329
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 432
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 515
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 523
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 523
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 565
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 565
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 565
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 572
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 577
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73997
+G0nrChm: 22
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 50
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 63
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 72
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 77
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 81
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 85
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 87
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 93
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 99
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 102
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP9
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 2.04082e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.04082e+06
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.04082e+06
+GADSS_ThI: 1
+
+
+APP10
+
+DSS
+LeftCompD: 49888
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.786
+CustomConvolution 
+LeftCompD: 33328
+LeftCommD: 3374
+ExpoCommD: 608
+Comp/Comm Weight: 9.87789
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.46184
+G0nrChm: 24
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.46184
+G1nrChm: 517
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.46184
+G2nrChm: 517
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.46184
+G3nrChm: 517
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.46184
+G4nrChm: 541
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.46184
+G5nrChm: 541
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.46184
+G6nrChm: 541
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.46184
+G7nrChm: 541
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.46184
+G8nrChm: 551
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.46184
+G9nrChm: 560
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.46184
+G10nrChm: 568
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.46184
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.46184
+G1nrChm: 30
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.46184
+G2nrChm: 41
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.46184
+G3nrChm: 53
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.46184
+G4nrChm: 58
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.46184
+G5nrChm: 74
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.46184
+G6nrChm: 81
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.46184
+G7nrChm: 84
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.46184
+G8nrChm: 93
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.46184
+G9nrChm: 94
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.46184
+G10nrChm: 97
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP10
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 3.92141e+06
+DSS_ThI: 3.25477
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.42735e+07
+GANO_ThI: 11.847
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.42735e+07
+GADSS_ThI: 11.847
+
+
+APP11
+
+DSS
+LeftCompD: 48944
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.7156
+CustomConvolution 
+LeftCompD: 33304
+LeftCommD: 3326
+ExpoCommD: 584
+Comp/Comm Weight: 10.0132
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.25062
+G0nrChm: 22
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.25062
+G1nrChm: 391
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.25062
+G2nrChm: 431
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.25062
+G3nrChm: 449
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.25062
+G4nrChm: 481
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.25062
+G5nrChm: 510
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.25062
+G6nrChm: 510
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.25062
+G7nrChm: 510
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.25062
+G8nrChm: 510
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.25062
+G9nrChm: 535
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.25062
+G10nrChm: 545
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.25062
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.25062
+G1nrChm: 44
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.25062
+G2nrChm: 51
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.25062
+G3nrChm: 59
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.25062
+G4nrChm: 75
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.25062
+G5nrChm: 78
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.25062
+G6nrChm: 84
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.25062
+G7nrChm: 98
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.25062
+G8nrChm: 107
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.25062
+G9nrChm: 110
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.25062
+G10nrChm: 112
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP11
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 3.5084e+06
+DSS_ThI: 7.05189
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 9.99251e+06
+GANO_ThI: 20.0849
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 9.99251e+06
+GADSS_ThI: 20.0849
+
+
+APP12
+
+DSS
+LeftCompD: 49424
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.8599
+CustomConvolution 
+LeftCompD: 33324
+LeftCommD: 3326
+ExpoCommD: 576
+Comp/Comm Weight: 10.0192
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.28414
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.28414
+G1nrChm: 508
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.28414
+G2nrChm: 508
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.28414
+G3nrChm: 510
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.28414
+G4nrChm: 524
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.28414
+G5nrChm: 530
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.28414
+G6nrChm: 541
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.28414
+G7nrChm: 541
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.28414
+G8nrChm: 541
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.28414
+G9nrChm: 576
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.28414
+G10nrChm: 592
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.28414
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.28414
+G1nrChm: 50
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.28414
+G2nrChm: 59
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.28414
+G3nrChm: 70
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.28414
+G4nrChm: 76
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.28414
+G5nrChm: 86
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.28414
+G6nrChm: 94
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.28414
+G7nrChm: 99
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.28414
+G8nrChm: 101
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.28414
+G9nrChm: 108
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.28414
+G10nrChm: 115
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP12
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 7.69112e+06
+DSS_ThI: 5.42224
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.66347e+07
+GANO_ThI: 18.7775
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.66347e+07
+GADSS_ThI: 18.7775
+
+
+APP13
+
+DSS
+LeftCompD: 49456
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.6928
+CustomConvolution 
+LeftCompD: 33356
+LeftCommD: 3366
+ExpoCommD: 608
+Comp/Comm Weight: 9.90969
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.15469
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.15469
+G1nrChm: 532
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.15469
+G2nrChm: 532
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.15469
+G3nrChm: 532
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.15469
+G4nrChm: 532
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.15469
+G5nrChm: 543
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.15469
+G6nrChm: 545
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.15469
+G7nrChm: 545
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.15469
+G8nrChm: 575
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.15469
+G9nrChm: 575
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.15469
+G10nrChm: 575
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.15469
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.15469
+G1nrChm: 37
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.15469
+G2nrChm: 56
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.15469
+G3nrChm: 63
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.15469
+G4nrChm: 69
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.15469
+G5nrChm: 72
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.15469
+G6nrChm: 79
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.15469
+G7nrChm: 86
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.15469
+G8nrChm: 90
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.15469
+G9nrChm: 99
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.15469
+G10nrChm: 104
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP13
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 4.54525e+06
+DSS_ThI: 6.22699
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.73913e+07
+GANO_ThI: 23.8261
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.73913e+07
+GADSS_ThI: 23.8261
+
+
+APP14
+
+DSS
+LeftCompD: 49376
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.8455
+CustomConvolution 
+LeftCompD: 33276
+LeftCommD: 3326
+ExpoCommD: 576
+Comp/Comm Weight: 10.0048
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.4866
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.4866
+G1nrChm: 296
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.4866
+G2nrChm: 387
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.4866
+G3nrChm: 443
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.4866
+G4nrChm: 536
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.4866
+G5nrChm: 546
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.4866
+G6nrChm: 571
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.4866
+G7nrChm: 571
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.4866
+G8nrChm: 578
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.4866
+G9nrChm: 578
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.4866
+G10nrChm: 590
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.4866
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.4866
+G1nrChm: 32
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.4866
+G2nrChm: 42
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.4866
+G3nrChm: 54
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.4866
+G4nrChm: 65
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.4866
+G5nrChm: 70
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.4866
+G6nrChm: 74
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.4866
+G7nrChm: 82
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.4866
+G8nrChm: 87
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.4866
+G9nrChm: 92
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.4866
+G10nrChm: 95
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP14
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 3.12461e+06
+DSS_ThI: 4.59318
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 7.40247e+06
+GANO_ThI: 10.8816
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 7.40247e+06
+GADSS_ThI: 10.8816
+
+
+APP15
+
+DSS
+LeftCompD: 49916
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.8295
+CustomConvolution 
+LeftCompD: 33356
+LeftCommD: 3366
+ExpoCommD: 608
+Comp/Comm Weight: 9.90969
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.18419
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.18419
+G1nrChm: 324
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.18419
+G2nrChm: 505
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.18419
+G3nrChm: 541
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.18419
+G4nrChm: 551
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.18419
+G5nrChm: 560
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.18419
+G6nrChm: 568
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.18419
+G7nrChm: 583
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.18419
+G8nrChm: 583
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.18419
+G9nrChm: 583
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.18419
+G10nrChm: 583
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.18419
+G0nrChm: 22
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.18419
+G1nrChm: 46
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.18419
+G2nrChm: 58
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.18419
+G3nrChm: 64
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.18419
+G4nrChm: 77
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.18419
+G5nrChm: 85
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.18419
+G6nrChm: 90
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.18419
+G7nrChm: 95
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.18419
+G8nrChm: 101
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.18419
+G9nrChm: 109
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.18419
+G10nrChm: 114
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP15
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 4.54525e+06
+DSS_ThI: 3.61347
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.85225e+07
+GANO_ThI: 22.6754
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.85225e+07
+GADSS_ThI: 22.6754
+
+
+APP16
+
+DSS
+LeftCompD: 49344
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 14.98
+CustomConvolution 
+LeftCompD: 33244
+LeftCommD: 3294
+ExpoCommD: 576
+Comp/Comm Weight: 10.0923
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.54448
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.54448
+G1nrChm: 407
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.54448
+G2nrChm: 461
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.54448
+G3nrChm: 474
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.54448
+G4nrChm: 490
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.54448
+G5nrChm: 498
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.54448
+G6nrChm: 511
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.54448
+G7nrChm: 524
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.54448
+G8nrChm: 524
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.54448
+G9nrChm: 530
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.54448
+G10nrChm: 530
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.54448
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.54448
+G1nrChm: 44
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.54448
+G2nrChm: 57
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.54448
+G3nrChm: 67
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.54448
+G4nrChm: 88
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.54448
+G5nrChm: 94
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.54448
+G6nrChm: 98
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.54448
+G7nrChm: 108
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.54448
+G8nrChm: 110
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.54448
+G9nrChm: 114
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.54448
+G10nrChm: 115
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP16
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.11099e+07
+DSS_ThI: 4.19398
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.28454e+07
+GANO_ThI: 8.62414
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.28454e+07
+GADSS_ThI: 8.62414
+
+
+APP17
+
+DSS
+LeftCompD: 50496
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 15.0018
+CustomConvolution 
+LeftCompD: 33476
+LeftCommD: 3366
+ExpoCommD: 624
+Comp/Comm Weight: 9.94534
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73997
+G0nrChm: 16
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 442
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 475
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 530
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 530
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 541
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 541
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 541
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 582
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 582
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 582
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73997
+G0nrChm: 19
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 40
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 47
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 54
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 69
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 82
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 95
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 104
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 111
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 117
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 117
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP17
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 5.71429e+07
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 5.71429e+07
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 5.71429e+07
+GADSS_ThI: 1
+
+
+APP18
+
+DSS
+LeftCompD: 49128
+LeftCommD: 3350
+ExpoCommD: 0
+Comp/Comm Weight: 14.6651
+CustomConvolution 
+LeftCompD: 33488
+LeftCommD: 3350
+ExpoCommD: 584
+Comp/Comm Weight: 9.99642
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.23644
+G0nrChm: 24
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.23644
+G1nrChm: 476
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.23644
+G2nrChm: 491
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.23644
+G3nrChm: 505
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.23644
+G4nrChm: 530
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.23644
+G5nrChm: 530
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.23644
+G6nrChm: 530
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.23644
+G7nrChm: 576
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.23644
+G8nrChm: 576
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.23644
+G9nrChm: 576
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.23644
+G10nrChm: 582
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.23644
+G0nrChm: 23
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.23644
+G1nrChm: 46
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.23644
+G2nrChm: 55
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.23644
+G3nrChm: 60
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.23644
+G4nrChm: 65
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.23644
+G5nrChm: 71
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.23644
+G6nrChm: 77
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.23644
+G7nrChm: 85
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.23644
+G8nrChm: 93
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.23644
+G9nrChm: 101
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.23644
+G10nrChm: 105
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP18
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.15942e+07
+DSS_ThI: 20.6377
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.15942e+07
+GANO_ThI: 20.6377
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.15942e+07
+GADSS_ThI: 20.6377
+
+
+APP19
+
+DSS
+LeftCompD: 49372
+LeftCommD: 3286
+ExpoCommD: 0
+Comp/Comm Weight: 15.025
+CustomConvolution 
+LeftCompD: 33272
+LeftCommD: 3286
+ExpoCommD: 576
+Comp/Comm Weight: 10.1254
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.49564
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.49564
+G1nrChm: 436
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.49564
+G2nrChm: 457
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.49564
+G3nrChm: 535
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.49564
+G4nrChm: 535
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.49564
+G5nrChm: 543
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.49564
+G6nrChm: 553
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.49564
+G7nrChm: 553
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.49564
+G8nrChm: 585
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.49564
+G9nrChm: 585
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.49564
+G10nrChm: 590
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.49564
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.49564
+G1nrChm: 39
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.49564
+G2nrChm: 45
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.49564
+G3nrChm: 56
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.49564
+G4nrChm: 66
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.49564
+G5nrChm: 71
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.49564
+G6nrChm: 73
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.49564
+G7nrChm: 77
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.49564
+G8nrChm: 82
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.49564
+G9nrChm: 89
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.49564
+G10nrChm: 97
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP19
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.23062e+07
+DSS_ThI: 4.5379
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.85531e+07
+GANO_ThI: 10.5289
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.85531e+07
+GADSS_ThI: 10.5289
+
+
+APP20
+
+DSS
+LeftCompD: 49572
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.6924
+CustomConvolution 
+LeftCompD: 32552
+LeftCommD: 3374
+ExpoCommD: 624
+Comp/Comm Weight: 9.6479
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73541
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73541
+G1nrChm: 506
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73541
+G2nrChm: 508
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73541
+G3nrChm: 510
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73541
+G4nrChm: 510
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73541
+G5nrChm: 510
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73541
+G6nrChm: 510
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73541
+G7nrChm: 510
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73541
+G8nrChm: 522
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73541
+G9nrChm: 522
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73541
+G10nrChm: 545
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73541
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73541
+G1nrChm: 38
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73541
+G2nrChm: 44
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73541
+G3nrChm: 55
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73541
+G4nrChm: 60
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73541
+G5nrChm: 70
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73541
+G6nrChm: 74
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73541
+G7nrChm: 85
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73541
+G8nrChm: 91
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73541
+G9nrChm: 94
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73541
+G10nrChm: 98
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP20
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 816327
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 961511
+GANO_ThI: 1.17785
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 961511
+GADSS_ThI: 1.17785
+
+
+APP21
+
+DSS
+LeftCompD: 50332
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.2799
+CustomConvolution 
+LeftCompD: 33312
+LeftCommD: 3294
+ExpoCommD: 624
+Comp/Comm Weight: 10.1129
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73997
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 431
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 487
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 487
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 487
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 499
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 499
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 508
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 508
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 519
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 525
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73997
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 36
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 52
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 63
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 67
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 69
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 76
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 84
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 99
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 106
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 108
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP21
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 3.63636e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 3.63636e+06
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 3.63636e+06
+GADSS_ThI: 1
+
+
+APP22
+
+DSS
+LeftCompD: 48060
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.4498
+CustomConvolution 
+LeftCompD: 31040
+LeftCommD: 3326
+ExpoCommD: 624
+Comp/Comm Weight: 9.33253
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73835
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73835
+G1nrChm: 338
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73835
+G2nrChm: 516
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73835
+G3nrChm: 550
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73835
+G4nrChm: 550
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73835
+G5nrChm: 559
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73835
+G6nrChm: 559
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73835
+G7nrChm: 559
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73835
+G8nrChm: 559
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73835
+G9nrChm: 559
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73835
+G10nrChm: 559
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73835
+G0nrChm: 16
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73835
+G1nrChm: 35
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73835
+G2nrChm: 44
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73835
+G3nrChm: 51
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73835
+G4nrChm: 58
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73835
+G5nrChm: 67
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73835
+G6nrChm: 74
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73835
+G7nrChm: 80
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73835
+G8nrChm: 87
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73835
+G9nrChm: 91
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73835
+G10nrChm: 97
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP22
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 2.005e+06
+DSS_ThI: 1.5614
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.36517e+06
+GANO_ThI: 1.06313
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.36517e+06
+GADSS_ThI: 1.06313
+
+
+APP23
+
+DSS
+LeftCompD: 49864
+LeftCommD: 3316
+ExpoCommD: 0
+Comp/Comm Weight: 15.0374
+CustomConvolution 
+LeftCompD: 32844
+LeftCommD: 3316
+ExpoCommD: 624
+Comp/Comm Weight: 9.9047
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 3.40063
+G0nrChm: 19
+G0FB: CannyEdgeDectector CustomConvolution 
+
+G1Result: 5.73076
+G1nrChm: 325
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73076
+G2nrChm: 390
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73076
+G3nrChm: 429
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73076
+G4nrChm: 429
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73076
+G5nrChm: 447
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73076
+G6nrChm: 464
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73076
+G7nrChm: 533
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73076
+G8nrChm: 544
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73076
+G9nrChm: 564
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73076
+G10nrChm: 564
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 3.40063
+G0nrChm: 20
+G0FB: CannyEdgeDectector CustomConvolution 
+
+G1Result: 5.73076
+G1nrChm: 42
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73076
+G2nrChm: 49
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73076
+G3nrChm: 56
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73076
+G4nrChm: 65
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73076
+G5nrChm: 73
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73076
+G6nrChm: 79
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73076
+G7nrChm: 81
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73076
+G8nrChm: 87
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73076
+G9nrChm: 96
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73076
+G10nrChm: 101
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP23
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.42857e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.94163e+06
+GANO_ThI: 1.35914
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.94163e+06
+GADSS_ThI: 1.35914
+
+
+APP24
+
+DSS
+LeftCompD: 49636
+LeftCommD: 3310
+ExpoCommD: 0
+Comp/Comm Weight: 14.9958
+CustomConvolution 
+LeftCompD: 33076
+LeftCommD: 3310
+ExpoCommD: 608
+Comp/Comm Weight: 9.99275
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.68937
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.68937
+G1nrChm: 360
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.68937
+G2nrChm: 399
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.68937
+G3nrChm: 467
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.68937
+G4nrChm: 480
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.68937
+G5nrChm: 508
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.68937
+G6nrChm: 508
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.68937
+G7nrChm: 513
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.68937
+G8nrChm: 513
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.68937
+G9nrChm: 513
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.68937
+G10nrChm: 546
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.68937
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.68937
+G1nrChm: 35
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.68937
+G2nrChm: 49
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.68937
+G3nrChm: 60
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.68937
+G4nrChm: 69
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.68937
+G5nrChm: 75
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.68937
+G6nrChm: 80
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.68937
+G7nrChm: 86
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.68937
+G8nrChm: 90
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.68937
+G9nrChm: 94
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.68937
+G10nrChm: 100
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP24
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.75436e+06
+DSS_ThI: 2.00874
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.5969e+06
+GANO_ThI: 2.97345
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.5969e+06
+GADSS_ThI: 2.97345
+
+
+APP25
+
+DSS
+LeftCompD: 49460
+LeftCommD: 3278
+ExpoCommD: 0
+Comp/Comm Weight: 15.0885
+CustomConvolution 
+LeftCompD: 32900
+LeftCommD: 3278
+ExpoCommD: 584
+Comp/Comm Weight: 10.0366
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.70777
+G0nrChm: 19
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.70777
+G1nrChm: 496
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.70777
+G2nrChm: 497
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.70777
+G3nrChm: 524
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.70777
+G4nrChm: 524
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.70777
+G5nrChm: 546
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.70777
+G6nrChm: 554
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.70777
+G7nrChm: 554
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.70777
+G8nrChm: 554
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.70777
+G9nrChm: 554
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.70777
+G10nrChm: 554
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.70777
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.70777
+G1nrChm: 38
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.70777
+G2nrChm: 50
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.70777
+G3nrChm: 54
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.70777
+G4nrChm: 58
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.70777
+G5nrChm: 71
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.70777
+G6nrChm: 81
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.70777
+G7nrChm: 85
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.70777
+G8nrChm: 88
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.70777
+G9nrChm: 92
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.70777
+G10nrChm: 97
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP25
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.26576e+06
+DSS_ThI: 1.72776
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.65256e+06
+GANO_ThI: 2.25575
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.65256e+06
+GADSS_ThI: 2.25575
+
+
+APP26
+
+DSS
+LeftCompD: 48168
+LeftCommD: 3254
+ExpoCommD: 0
+Comp/Comm Weight: 14.8027
+CustomConvolution 
+LeftCompD: 32988
+LeftCommD: 3254
+ExpoCommD: 560
+Comp/Comm Weight: 10.1377
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.64169
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.64169
+G1nrChm: 317
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.64169
+G2nrChm: 318
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.64169
+G3nrChm: 384
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.64169
+G4nrChm: 421
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.64169
+G5nrChm: 422
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.64169
+G6nrChm: 433
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.64169
+G7nrChm: 433
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.64169
+G8nrChm: 483
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.64169
+G9nrChm: 496
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.64169
+G10nrChm: 496
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.64169
+G0nrChm: 23
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.64169
+G1nrChm: 47
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.64169
+G2nrChm: 57
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.64169
+G3nrChm: 68
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.64169
+G4nrChm: 75
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.64169
+G5nrChm: 87
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.64169
+G6nrChm: 94
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.64169
+G7nrChm: 97
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.64169
+G8nrChm: 102
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.64169
+G9nrChm: 108
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.64169
+G10nrChm: 114
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP26
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.66656e+06
+DSS_ThI: 4.83301
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.66656e+06
+GANO_ThI: 4.83301
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.66656e+06
+GADSS_ThI: 4.83301
+
+
+APP27
+
+DSS
+LeftCompD: 48136
+LeftCommD: 3338
+ExpoCommD: 0
+Comp/Comm Weight: 14.4206
+CustomConvolution 
+LeftCompD: 31116
+LeftCommD: 3338
+ExpoCommD: 624
+Comp/Comm Weight: 9.32175
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73802
+G0nrChm: 22
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73802
+G1nrChm: 451
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73802
+G2nrChm: 486
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73802
+G3nrChm: 502
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73802
+G4nrChm: 529
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73802
+G5nrChm: 539
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73802
+G6nrChm: 573
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73802
+G7nrChm: 573
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73802
+G8nrChm: 573
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73802
+G9nrChm: 573
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73802
+G10nrChm: 584
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73802
+G0nrChm: 22
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73802
+G1nrChm: 49
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73802
+G2nrChm: 57
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73802
+G3nrChm: 63
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73802
+G4nrChm: 77
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73802
+G5nrChm: 84
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73802
+G6nrChm: 94
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73802
+G7nrChm: 96
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73802
+G8nrChm: 100
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73802
+G9nrChm: 103
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73802
+G10nrChm: 111
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP27
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.99999e+06
+DSS_ThI: 1.74666
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 1.23202e+06
+GANO_ThI: 1.07596
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 1.23202e+06
+GADSS_ThI: 1.07596
+
+
+APP28
+
+DSS
+LeftCompD: 47352
+LeftCommD: 3346
+ExpoCommD: 0
+Comp/Comm Weight: 14.1518
+CustomConvolution 
+LeftCompD: 30332
+LeftCommD: 3346
+ExpoCommD: 624
+Comp/Comm Weight: 9.06515
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73868
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73868
+G1nrChm: 321
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73868
+G2nrChm: 476
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73868
+G3nrChm: 492
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73868
+G4nrChm: 513
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73868
+G5nrChm: 525
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73868
+G6nrChm: 534
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73868
+G7nrChm: 534
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73868
+G8nrChm: 534
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73868
+G9nrChm: 534
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73868
+G10nrChm: 555
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73868
+G0nrChm: 23
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73868
+G1nrChm: 50
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73868
+G2nrChm: 59
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73868
+G3nrChm: 66
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73868
+G4nrChm: 74
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73868
+G5nrChm: 83
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73868
+G6nrChm: 85
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73868
+G7nrChm: 89
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73868
+G8nrChm: 92
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73868
+G9nrChm: 99
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73868
+G10nrChm: 105
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP28
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 367646
+DSS_ThI: 1.41176
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 273596
+GANO_ThI: 1.05061
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 273596
+GADSS_ThI: 1.05061
+
+
+APP29
+
+DSS
+LeftCompD: 47920
+LeftCommD: 3314
+ExpoCommD: 0
+Comp/Comm Weight: 14.4599
+CustomConvolution 
+LeftCompD: 31360
+LeftCommD: 3314
+ExpoCommD: 600
+Comp/Comm Weight: 9.46288
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73202
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73202
+G1nrChm: 442
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73202
+G2nrChm: 490
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73202
+G3nrChm: 505
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73202
+G4nrChm: 518
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73202
+G5nrChm: 518
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73202
+G6nrChm: 518
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73202
+G7nrChm: 541
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73202
+G8nrChm: 541
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73202
+G9nrChm: 541
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73202
+G10nrChm: 551
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73202
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73202
+G1nrChm: 35
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73202
+G2nrChm: 49
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73202
+G3nrChm: 58
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73202
+G4nrChm: 64
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73202
+G5nrChm: 74
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73202
+G6nrChm: 80
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73202
+G7nrChm: 86
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73202
+G8nrChm: 92
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73202
+G9nrChm: 97
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73202
+G10nrChm: 100
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP29
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 660055
+DSS_ThI: 2.11878
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 408151
+GANO_ThI: 1.31016
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 408151
+GADSS_ThI: 1.31016
+
+
+APP30
+
+DSS
+LeftCompD: 47812
+LeftCommD: 3314
+ExpoCommD: 0
+Comp/Comm Weight: 14.4273
+CustomConvolution 
+LeftCompD: 31252
+LeftCommD: 3314
+ExpoCommD: 608
+Comp/Comm Weight: 9.4303
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73243
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73243
+G1nrChm: 455
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73243
+G2nrChm: 521
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73243
+G3nrChm: 553
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73243
+G4nrChm: 570
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73243
+G5nrChm: 570
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73243
+G6nrChm: 570
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73243
+G7nrChm: 570
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73243
+G8nrChm: 570
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73243
+G9nrChm: 570
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73243
+G10nrChm: 582
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73243
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73243
+G1nrChm: 39
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73243
+G2nrChm: 51
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73243
+G3nrChm: 58
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73243
+G4nrChm: 71
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73243
+G5nrChm: 83
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73243
+G6nrChm: 95
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73243
+G7nrChm: 101
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73243
+G8nrChm: 104
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73243
+G9nrChm: 107
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73243
+G10nrChm: 112
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP30
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 606053
+DSS_ThI: 2.02725
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 386838
+GANO_ThI: 1.29397
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 386838
+GADSS_ThI: 1.29397
+
+
+APP31
+
+DSS
+LeftCompD: 49772
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.7867
+CustomConvolution 
+LeftCompD: 33212
+LeftCommD: 3366
+ExpoCommD: 608
+Comp/Comm Weight: 9.8669
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.64937
+G0nrChm: 16
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.64937
+G1nrChm: 402
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.64937
+G2nrChm: 452
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.64937
+G3nrChm: 507
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.64937
+G4nrChm: 520
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.64937
+G5nrChm: 520
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.64937
+G6nrChm: 542
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.64937
+G7nrChm: 560
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.64937
+G8nrChm: 568
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.64937
+G9nrChm: 568
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.64937
+G10nrChm: 575
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.64937
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.64937
+G1nrChm: 40
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.64937
+G2nrChm: 55
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.64937
+G3nrChm: 66
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.64937
+G4nrChm: 71
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.64937
+G5nrChm: 76
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.64937
+G6nrChm: 79
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.64937
+G7nrChm: 82
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.64937
+G8nrChm: 87
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.64937
+G9nrChm: 91
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.64937
+G10nrChm: 98
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP31
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 2.49994e+06
+DSS_ThI: 2.43744
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 4.64987e+06
+GANO_ThI: 4.53362
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 4.64987e+06
+GADSS_ThI: 4.53362
+
+
+APP32
+
+DSS
+LeftCompD: 49696
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.7641
+CustomConvolution 
+LeftCompD: 33136
+LeftCommD: 3366
+ExpoCommD: 608
+Comp/Comm Weight: 9.84433
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 3.36422
+G0nrChm: 21
+G0FB: CannyEdgeDectector CustomConvolution 
+
+G1Result: 5.65143
+G1nrChm: 320
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.65143
+G2nrChm: 448
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.65143
+G3nrChm: 449
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.65143
+G4nrChm: 482
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.65143
+G5nrChm: 498
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.65143
+G6nrChm: 498
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.65143
+G7nrChm: 511
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.65143
+G8nrChm: 511
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.65143
+G9nrChm: 511
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.65143
+G10nrChm: 511
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.65143
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.65143
+G1nrChm: 40
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.65143
+G2nrChm: 53
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.65143
+G3nrChm: 64
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.65143
+G4nrChm: 72
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.65143
+G5nrChm: 77
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.65143
+G6nrChm: 87
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.65143
+G7nrChm: 96
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.65143
+G8nrChm: 105
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.65143
+G9nrChm: 113
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.65143
+G10nrChm: 116
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP32
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 2.46907e+06
+DSS_ThI: 2.41969
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 4.54422e+06
+GANO_ThI: 4.45333
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 4.54422e+06
+GADSS_ThI: 4.45333
+
+
+APP33
+
+DSS
+LeftCompD: 49244
+LeftCommD: 3358
+ExpoCommD: 0
+Comp/Comm Weight: 14.6647
+CustomConvolution 
+LeftCompD: 32224
+LeftCommD: 3358
+ExpoCommD: 624
+Comp/Comm Weight: 9.59619
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.7367
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.7367
+G1nrChm: 393
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.7367
+G2nrChm: 407
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.7367
+G3nrChm: 531
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.7367
+G4nrChm: 542
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.7367
+G5nrChm: 542
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.7367
+G6nrChm: 552
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.7367
+G7nrChm: 569
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.7367
+G8nrChm: 576
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.7367
+G9nrChm: 576
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.7367
+G10nrChm: 586
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.7367
+G0nrChm: 19
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.7367
+G1nrChm: 40
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.7367
+G2nrChm: 49
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.7367
+G3nrChm: 56
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.7367
+G4nrChm: 62
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.7367
+G5nrChm: 66
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.7367
+G6nrChm: 71
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.7367
+G7nrChm: 79
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.7367
+G8nrChm: 87
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.7367
+G9nrChm: 91
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.7367
+G10nrChm: 92
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP33
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.94171e+06
+DSS_ThI: 3.1747
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 689641
+GANO_ThI: 1.12756
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 689641
+GADSS_ThI: 1.12756
+
+
+APP34
+
+DSS
+LeftCompD: 48860
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 14.833
+CustomConvolution 
+LeftCompD: 33220
+LeftCommD: 3294
+ExpoCommD: 576
+Comp/Comm Weight: 10.085
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.44345
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.44345
+G1nrChm: 437
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.44345
+G2nrChm: 456
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.44345
+G3nrChm: 471
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.44345
+G4nrChm: 496
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.44345
+G5nrChm: 496
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.44345
+G6nrChm: 496
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.44345
+G7nrChm: 546
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.44345
+G8nrChm: 546
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.44345
+G9nrChm: 546
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.44345
+G10nrChm: 546
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.44345
+G0nrChm: 20
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.44345
+G1nrChm: 40
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.44345
+G2nrChm: 54
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.44345
+G3nrChm: 65
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.44345
+G4nrChm: 70
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.44345
+G5nrChm: 76
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.44345
+G6nrChm: 87
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.44345
+G7nrChm: 99
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.44345
+G8nrChm: 101
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.44345
+G9nrChm: 106
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.44345
+G10nrChm: 111
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP34
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 2.8569e+06
+DSS_ThI: 5.92806
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 6.0551e+06
+GANO_ThI: 12.5643
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 6.0551e+06
+GADSS_ThI: 12.5643
+
+
+APP35
+
+DSS
+LeftCompD: 49516
+LeftCommD: 3370
+ExpoCommD: 0
+Comp/Comm Weight: 14.6932
+CustomConvolution 
+LeftCompD: 32496
+LeftCommD: 3370
+ExpoCommD: 624
+Comp/Comm Weight: 9.64273
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73554
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73554
+G1nrChm: 465
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73554
+G2nrChm: 495
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73554
+G3nrChm: 508
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73554
+G4nrChm: 556
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73554
+G5nrChm: 556
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73554
+G6nrChm: 556
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73554
+G7nrChm: 562
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73554
+G8nrChm: 562
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73554
+G9nrChm: 562
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73554
+G10nrChm: 562
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73554
+G0nrChm: 16
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73554
+G1nrChm: 30
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73554
+G2nrChm: 42
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73554
+G3nrChm: 54
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73554
+G4nrChm: 61
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73554
+G5nrChm: 68
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73554
+G6nrChm: 73
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73554
+G7nrChm: 79
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73554
+G8nrChm: 84
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73554
+G9nrChm: 89
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73554
+G10nrChm: 96
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP35
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 796813
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 934553
+GANO_ThI: 1.17286
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 934553
+GADSS_ThI: 1.17286
+
+
+APP36
+
+DSS
+LeftCompD: 48960
+LeftCommD: 3382
+ExpoCommD: 0
+Comp/Comm Weight: 14.4766
+CustomConvolution 
+LeftCompD: 32400
+LeftCommD: 3382
+ExpoCommD: 608
+Comp/Comm Weight: 9.58013
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.72955
+G0nrChm: 16
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.72955
+G1nrChm: 480
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.72955
+G2nrChm: 481
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.72955
+G3nrChm: 496
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.72955
+G4nrChm: 496
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.72955
+G5nrChm: 509
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.72955
+G6nrChm: 544
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.72955
+G7nrChm: 544
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.72955
+G8nrChm: 544
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.72955
+G9nrChm: 553
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.72955
+G10nrChm: 553
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.72955
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.72955
+G1nrChm: 35
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.72955
+G2nrChm: 49
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.72955
+G3nrChm: 66
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.72955
+G4nrChm: 73
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.72955
+G5nrChm: 83
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.72955
+G6nrChm: 93
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.72955
+G7nrChm: 95
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.72955
+G8nrChm: 97
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.72955
+G9nrChm: 104
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.72955
+G10nrChm: 108
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP36
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 706709
+DSS_ThI: 1.40635
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 706709
+GANO_ThI: 1.40635
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 706709
+GADSS_ThI: 1.40635
+
+
+APP37
+
+DSS
+LeftCompD: 48244
+LeftCommD: 3238
+ExpoCommD: 0
+Comp/Comm Weight: 14.8993
+CustomConvolution 
+LeftCompD: 32604
+LeftCommD: 3238
+ExpoCommD: 608
+Comp/Comm Weight: 10.0692
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.68975
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.68975
+G1nrChm: 345
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.68975
+G2nrChm: 464
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.68975
+G3nrChm: 504
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.68975
+G4nrChm: 518
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.68975
+G5nrChm: 518
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.68975
+G6nrChm: 530
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.68975
+G7nrChm: 541
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.68975
+G8nrChm: 541
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.68975
+G9nrChm: 541
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.68975
+G10nrChm: 541
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.68975
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.68975
+G1nrChm: 38
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.68975
+G2nrChm: 51
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.68975
+G3nrChm: 69
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.68975
+G4nrChm: 76
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.68975
+G5nrChm: 86
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.68975
+G6nrChm: 95
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.68975
+G7nrChm: 100
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.68975
+G8nrChm: 102
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.68975
+G9nrChm: 104
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.68975
+G10nrChm: 109
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP37
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.72412e+06
+DSS_ThI: 2.48705
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.05109e+06
+GANO_ThI: 2.9587
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.05109e+06
+GADSS_ThI: 2.9587
+
+
+APP38
+
+DSS
+LeftCompD: 49580
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.0516
+CustomConvolution 
+LeftCompD: 33020
+LeftCommD: 3294
+ExpoCommD: 608
+Comp/Comm Weight: 10.0243
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.69303
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.69303
+G1nrChm: 342
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.69303
+G2nrChm: 383
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.69303
+G3nrChm: 384
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.69303
+G4nrChm: 413
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.69303
+G5nrChm: 430
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.69303
+G6nrChm: 430
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.69303
+G7nrChm: 461
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.69303
+G8nrChm: 461
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.69303
+G9nrChm: 475
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.69303
+G10nrChm: 475
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.69303
+G0nrChm: 21
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.69303
+G1nrChm: 45
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.69303
+G2nrChm: 54
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.69303
+G3nrChm: 61
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.69303
+G4nrChm: 71
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.69303
+G5nrChm: 79
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.69303
+G6nrChm: 81
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.69303
+G7nrChm: 87
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.69303
+G8nrChm: 91
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.69303
+G9nrChm: 96
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.69303
+G10nrChm: 103
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP38
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 1.66664e+06
+DSS_ThI: 1.9583
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 2.40929e+06
+GANO_ThI: 2.83092
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 2.40929e+06
+GADSS_ThI: 2.83092
+
+
+APP39
+
+DSS
+LeftCompD: 50328
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.9164
+CustomConvolution 
+LeftCompD: 33308
+LeftCommD: 3374
+ExpoCommD: 624
+Comp/Comm Weight: 9.87196
+HarrisCorners 
+Selected FBs:
+CustomConvolution HarrisCorners 
+
+
+GANO
+G0Result: 5.73997
+G0nrChm: 22
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 491
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 505
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 568
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 568
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 568
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 575
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 575
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 575
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 575
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 581
+G10FB: ColorConvert CustomConvolution 
+
+
+
+GADSS
+G0Result: 5.73997
+G0nrChm: 17
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.73997
+G1nrChm: 41
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.73997
+G2nrChm: 48
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.73997
+G3nrChm: 59
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.73997
+G4nrChm: 67
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.73997
+G5nrChm: 76
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.73997
+G6nrChm: 83
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.73997
+G7nrChm: 86
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.73997
+G8nrChm: 92
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.73997
+G9nrChm: 97
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.73997
+G10nrChm: 100
+G10FB: ColorConvert CustomConvolution 
+
+
+
+APP39
+
+DSSFBs: CustomConvolution HarrisCorners 
+DSS_Th: 5.26316e+06
+DSS_ThI: 1
+GANOFBs: ColorConvert CustomConvolution 
+GANO_Th: 5.26316e+06
+GANO_ThI: 1
+GADSSFBs: ColorConvert CustomConvolution 
+GADSS_Th: 5.26316e+06
+GADSS_ThI: 1
+
+

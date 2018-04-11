@@ -1,0 +1,84 @@
+G0Result: 2.72548
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.72548
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.72548
+G2nrChm: 17
+G2FB: CustomConvolution 
+
+G3Result: 2.72548
+G3nrChm: 18
+G3FB: CustomConvolution 
+
+G4Result: 2.72548
+G4nrChm: 18
+G4FB: CustomConvolution 
+
+G5Result: 2.72548
+G5nrChm: 21
+G5FB: CustomConvolution 
+
+G6Result: 2.72548
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.72548
+G7nrChm: 22
+G7FB: CustomConvolution 
+
+G8Result: 2.72548
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.72548
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.72548
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+G11Result: 2.72548
+G11nrChm: 26
+G11FB: CustomConvolution 
+
+G12Result: 2.72548
+G12nrChm: 28
+G12FB: CustomConvolution 
+
+G13Result: 2.72548
+G13nrChm: 29
+G13FB: CustomConvolution 
+
+G14Result: 2.72548
+G14nrChm: 30
+G14FB: CustomConvolution 
+
+G15Result: 2.72548
+G15nrChm: 30
+G15FB: CustomConvolution 
+
+G16Result: 2.72548
+G16nrChm: 30
+G16FB: CustomConvolution 
+
+G17Result: 2.72548
+G17nrChm: 30
+G17FB: CustomConvolution 
+
+G18Result: 2.72548
+G18nrChm: 30
+G18FB: CustomConvolution 
+
+G19Result: 2.72548
+G19nrChm: 30
+G19FB: CustomConvolution 
+
+G20Result: 2.72548
+G20nrChm: 31
+G20FB: CustomConvolution 
+

@@ -1,0 +1,13 @@
+Dilate3mul3_0 FB4
+Box3mul3_0 FB2
+OR_0 SW0
+Box3mul3_1 FB2
+Output SW0
+AND_0 FB1
+Input SW0
+NeutralPixelDetection SW0
+CalculateGradient SW0
+Sobel3mul3_0 FB3
+LUT3D SW0
+Dilate3mul3_1 FB4
+AND_1 FB1

@@ -1,0 +1,17 @@
+LeftCompD: 50552
+LeftCommD: 3414
+ExpoCommD: 0
+Comp/Comm Weight: 14.8073
+CustomConvolution 
+LeftCompD: 33532
+LeftCommD: 3414
+ExpoCommD: 624
+Comp/Comm Weight: 9.82191
+ColorConvert 
+LeftCompD: 28944
+LeftCommD: 3414
+ExpoCommD: 1356
+Comp/Comm Weight: 8.47803
+HarrisCorners 
+Selected FBs:
+CustomConvolution ColorConvert HarrisCorners 

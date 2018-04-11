@@ -1,0 +1,7 @@
+EqualizeHistogram_0 FB5
+AbsoluteDifference_0 SW0
+AccumulateWeighted_0 FB6
+MyKernel SW0
+Input SW0
+Output SW0
+Thresholding_0 SW0

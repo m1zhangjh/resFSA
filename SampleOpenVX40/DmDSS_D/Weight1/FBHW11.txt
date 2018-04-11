@@ -1,0 +1,57 @@
+LeftCompD: 50552
+LeftCommD: 3414
+ExpoCommD: 0
+Comp/Comm Weight: 14.8073
+CustomConvolution 
+LeftCompD: 33532
+LeftCommD: 3414
+ExpoCommD: 624
+Comp/Comm Weight: 9.82191
+ColorConvert 
+LeftCompD: 28944
+LeftCommD: 3414
+ExpoCommD: 1356
+Comp/Comm Weight: 8.47803
+HarrisCorners 
+LeftCompD: 22672
+LeftCommD: 3414
+ExpoCommD: 1468
+Comp/Comm Weight: 6.64089
+CannyEdgeDetector 
+LeftCompD: 18552
+LeftCommD: 3390
+ExpoCommD: 1500
+Comp/Comm Weight: 5.47257
+OpticalFlowPyramid 
+LeftCompD: 14456
+LeftCommD: 3374
+ExpoCommD: 1580
+Comp/Comm Weight: 4.28453
+CannyEdgeDectector 
+LeftCompD: 11160
+LeftCommD: 3374
+ExpoCommD: 1644
+Comp/Comm Weight: 3.30765
+Gaussian3mul3 
+LeftCompD: 9828
+LeftCommD: 3374
+ExpoCommD: 1788
+Comp/Comm Weight: 2.91286
+Box3mul3 
+LeftCompD: 8792
+LeftCommD: 3318
+ExpoCommD: 1788
+Comp/Comm Weight: 2.64979
+ChannelExtract 
+LeftCompD: 8376
+LeftCommD: 2298
+ExpoCommD: 1096
+Comp/Comm Weight: 3.64491
+EqualizeHistogram 
+LeftCompD: 7800
+LeftCommD: 2226
+ExpoCommD: 1160
+Comp/Comm Weight: 3.50404
+Median3mul3 
+Selected FBs:
+CustomConvolution ColorConvert HarrisCorners CannyEdgeDetector OpticalFlowPyramid CannyEdgeDectector Gaussian3mul3 Box3mul3 ChannelExtract EqualizeHistogram Median3mul3 

@@ -1,0 +1,12 @@
+G0Result: 23.7354
+G0nrChm: 30
+G0FB: AccumulateWeighted Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution Dilate3mul3 EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners LaplacianPyramid Magnitude Median3mul3 MinMax OpticalFlowPyramid Sobel3mul3 WarpAffine 
+
+G1Result: 24.1979
+G1nrChm: 28200
+G1FB: AbsoluteDifference AccumulateWeighted Box3mul3 CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Dilate3mul3 EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Magnitude Median3mul3 OpticalFlowPyramid Phase Sobel3mul3 Thresholding WarpAffine 
+
+G2Result: 24.1979
+G2nrChm: 44003
+G2FB: AbsoluteDifference AccumulateWeighted Box3mul3 CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution Dilate3mul3 EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Magnitude Median3mul3 OpticalFlowPyramid Phase Sobel3mul3 Thresholding WarpAffine 
+

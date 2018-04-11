@@ -1,0 +1,8 @@
+ChannelExtract_0 SW0
+Gaussian3mul3_0 SW0
+Thresholding_0 FB4
+CustomConvolution_0 FB7
+ColorConvert_0 FB3
+MyKernel SW0
+Input SW0
+Output SW0

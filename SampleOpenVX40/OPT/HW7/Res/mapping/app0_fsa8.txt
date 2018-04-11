@@ -1,0 +1,9 @@
+Input SW0
+ColorConvert_1 FB2
+EqualizeHistogram_0 SW0
+ChannelExtract_1 FB5
+ChannelExtract_0 FB5
+ColorConvert_0 FB2
+ChannelCombine_0 FB4
+Output SW0
+ChannelExtract_2 FB5

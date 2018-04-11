@@ -1,0 +1,84 @@
+G0Result: 17.8208
+G0nrChm: 30
+G0FB: Box3mul3 CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners OpticalFlowPyramid Thresholding WarpAffine WarpPerspective 
+
+G1Result: 19.5094
+G1nrChm: 328
+G1FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G2Result: 19.5094
+G2nrChm: 384
+G2FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G3Result: 19.5094
+G3nrChm: 495
+G3FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G4Result: 19.5094
+G4nrChm: 630
+G4FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G5Result: 19.5094
+G5nrChm: 751
+G5FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G6Result: 19.5094
+G6nrChm: 833
+G6FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G7Result: 19.5094
+G7nrChm: 980
+G7FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G8Result: 19.5094
+G8nrChm: 1083
+G8FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G9Result: 19.5094
+G9nrChm: 1190
+G9FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G10Result: 19.5094
+G10nrChm: 1288
+G10FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G11Result: 19.5094
+G11nrChm: 1409
+G11FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G12Result: 19.5094
+G12nrChm: 1495
+G12FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G13Result: 19.5094
+G13nrChm: 1597
+G13FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G14Result: 19.5094
+G14nrChm: 1646
+G14FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G15Result: 19.5094
+G15nrChm: 1770
+G15FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G16Result: 19.5094
+G16nrChm: 1859
+G16FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G17Result: 19.5094
+G17nrChm: 1949
+G17FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G18Result: 19.5094
+G18nrChm: 2036
+G18FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G19Result: 19.5094
+G19nrChm: 2157
+G19FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+
+G20Result: 19.5094
+G20nrChm: 2235
+G20FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 GaussianPyramid HarrisCorners Median3mul3 OpticalFlowPyramid WarpAffine 
+

@@ -1,0 +1,13 @@
+ChannelExtract_0 SW0
+CustomConvolution_0 FB3
+ColorConvert_0 FB1
+MyKernel SW0
+AccumulateSquared_0 SW0
+Phase_0 SW0
+ChannelCombine_0 SW0
+MinMax_0 SW0
+AbsoluteDifference_0 SW0
+Median3mul3_0 SW0
+Input SW0
+Output SW0
+Thresholding_0 SW0

@@ -1,0 +1,5 @@
+ChannelExtract_0 FB9
+Output SW0
+ColorConvert_0 FB2
+CannyEdgeDectector_0 FB6
+Input SW0

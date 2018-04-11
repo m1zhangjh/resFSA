@@ -1,0 +1,11 @@
+ChannelExtract_0 SW0
+ColorConvert_0 FB3
+ChannelExtract_1 SW0
+EqualizeHistogram_0 FB6
+AbsoluteDifference_0 FB7
+Median3mul3_0 FB2
+MeanSD_0 FB1
+Thresholding_0 FB4
+CustomConvolution_0 FB5
+Input SW0
+Output SW0

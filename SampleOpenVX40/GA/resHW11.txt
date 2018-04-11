@@ -1,0 +1,84 @@
+G0Result: 16.2846
+G0nrChm: 30
+G0FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid Sobel3mul3 
+
+G1Result: 17.4047
+G1nrChm: 271
+G1FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G2Result: 17.4047
+G2nrChm: 339
+G2FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G3Result: 17.4047
+G3nrChm: 447
+G3FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G4Result: 17.4047
+G4nrChm: 525
+G4FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G5Result: 17.4047
+G5nrChm: 684
+G5FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G6Result: 17.4047
+G6nrChm: 735
+G6FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G7Result: 17.4047
+G7nrChm: 817
+G7FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G8Result: 17.4047
+G8nrChm: 874
+G8FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G9Result: 17.4047
+G9nrChm: 972
+G9FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G10Result: 17.4047
+G10nrChm: 1053
+G10FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G11Result: 17.4047
+G11nrChm: 1118
+G11FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G12Result: 17.4047
+G12nrChm: 1231
+G12FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G13Result: 17.4047
+G13nrChm: 1297
+G13FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G14Result: 17.4047
+G14nrChm: 1374
+G14FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G15Result: 17.4047
+G15nrChm: 1435
+G15FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G16Result: 17.4047
+G16nrChm: 1534
+G16FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G17Result: 17.4047
+G17nrChm: 1602
+G17FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G18Result: 17.4047
+G18nrChm: 1663
+G18FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G19Result: 17.4047
+G19nrChm: 1752
+G19FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+
+G20Result: 17.4047
+G20nrChm: 1803
+G20FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ChannelExtract ColorConvert CustomConvolution EqualizeHistogram Gaussian3mul3 HarrisCorners Median3mul3 OpticalFlowPyramid 
+

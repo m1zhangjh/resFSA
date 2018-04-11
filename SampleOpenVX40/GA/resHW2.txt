@@ -1,0 +1,84 @@
+G0Result: 5.62147
+G0nrChm: 18
+G0FB: ColorConvert CustomConvolution 
+
+G1Result: 5.62147
+G1nrChm: 37
+G1FB: ColorConvert CustomConvolution 
+
+G2Result: 5.62147
+G2nrChm: 46
+G2FB: ColorConvert CustomConvolution 
+
+G3Result: 5.62147
+G3nrChm: 56
+G3FB: ColorConvert CustomConvolution 
+
+G4Result: 5.62147
+G4nrChm: 69
+G4FB: ColorConvert CustomConvolution 
+
+G5Result: 5.62147
+G5nrChm: 78
+G5FB: ColorConvert CustomConvolution 
+
+G6Result: 5.62147
+G6nrChm: 83
+G6FB: ColorConvert CustomConvolution 
+
+G7Result: 5.62147
+G7nrChm: 85
+G7FB: ColorConvert CustomConvolution 
+
+G8Result: 5.62147
+G8nrChm: 91
+G8FB: ColorConvert CustomConvolution 
+
+G9Result: 5.62147
+G9nrChm: 92
+G9FB: ColorConvert CustomConvolution 
+
+G10Result: 5.62147
+G10nrChm: 95
+G10FB: ColorConvert CustomConvolution 
+
+G11Result: 5.62147
+G11nrChm: 100
+G11FB: ColorConvert CustomConvolution 
+
+G12Result: 5.62147
+G12nrChm: 100
+G12FB: ColorConvert CustomConvolution 
+
+G13Result: 5.62147
+G13nrChm: 105
+G13FB: ColorConvert CustomConvolution 
+
+G14Result: 5.62147
+G14nrChm: 106
+G14FB: ColorConvert CustomConvolution 
+
+G15Result: 5.62147
+G15nrChm: 111
+G15FB: ColorConvert CustomConvolution 
+
+G16Result: 5.62147
+G16nrChm: 116
+G16FB: ColorConvert CustomConvolution 
+
+G17Result: 5.62147
+G17nrChm: 121
+G17FB: ColorConvert CustomConvolution 
+
+G18Result: 5.62147
+G18nrChm: 123
+G18FB: ColorConvert CustomConvolution 
+
+G19Result: 5.62147
+G19nrChm: 125
+G19FB: ColorConvert CustomConvolution 
+
+G20Result: 5.62147
+G20nrChm: 125
+G20FB: ColorConvert CustomConvolution 
+

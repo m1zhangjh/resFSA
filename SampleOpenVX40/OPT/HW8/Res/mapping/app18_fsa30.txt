@@ -1,0 +1,8 @@
+CustomConvolution_0 FB8
+ChannelExtract_0 FB6
+CustomConvolution_1 FB8
+CustomConvolution_2 FB8
+Accumulate_0 SW0
+Thresholding_0 FB4
+Input SW0
+Output SW0

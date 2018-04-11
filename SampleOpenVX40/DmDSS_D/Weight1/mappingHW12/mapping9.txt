@@ -1,0 +1,8 @@
+Gaussian3mul3_0 FB7
+ChannelExtract_0 FB9
+Sobel3mul3_0 FB12
+Phase_0 SW0
+MyKernel SW0
+Input SW0
+Output SW0
+Magnitude_0 SW0

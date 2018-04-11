@@ -1,0 +1,9 @@
+ChannelExtract_0 SW0
+CannyEdgeDectector_1 SW0
+ChannelExtract_2 SW0
+CannyEdgeDectector_0 SW0
+ChannelExtract_1 SW0
+CannyEdgeDectector_2 SW0
+ChannelCombine_0 FB4
+Input SW0
+Output SW0

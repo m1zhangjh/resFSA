@@ -1,0 +1,7 @@
+ChannelExtract_0 SW0
+Sobel3mul3_0 FB2
+CensusTransform SW0
+Input SW0
+Output SW0
+Magnitude_0 FB1
+ColorConvert_0 SW0

@@ -1,0 +1,4763 @@
+SW Throughput: 
+6.25e+06 1.90476e+06 1.25786e+06 1.40351e+07 3.92157e+06 955414 1.12994e+06 3.7037e+06 1.30293e+06 2.04082e+06 1.20482e+06 497512 1.41844e+06 729927 680272 1.25786e+06 2.64901e+06 5.71429e+07 561798 2.71186e+06 816327 3.63636e+06 1.28411e+06 1.42857e+06 873362 732601 344828 1.14504e+06 260417 311526 298954 1.02564e+06 1.02041e+06 611621 481928 796813 502513 693241 851064 5.26316e+06 
+
+APP0
+
+DSS
+LeftCompD: 50168
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.2301
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 7
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 13
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 14
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 15
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 18
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 26
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 26
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP0
+
+DSSFBs: CustomConvolution 
+DSS_Th: 6.25e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 6.25e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 6.25e+06
+GADSS_ThI: 1
+
+
+APP1
+
+DSS
+LeftCompD: 50132
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 15.0728
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 13
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 16
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 22
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 24
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 24
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 24
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 24
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP1
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.90476e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 1.90476e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.90476e+06
+GADSS_ThI: 1
+
+
+APP2
+
+DSS
+LeftCompD: 49756
+LeftCommD: 3270
+ExpoCommD: 0
+Comp/Comm Weight: 15.2159
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 16
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 16
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 24
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 24
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 24
+G10FB: CustomConvolution 
+
+
+
+APP2
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.25786e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 1.25786e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.25786e+06
+GADSS_ThI: 1
+
+
+APP3
+
+DSS
+LeftCompD: 50196
+LeftCommD: 3334
+ExpoCommD: 0
+Comp/Comm Weight: 15.0558
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 6
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 16
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 18
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 19
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 20
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 21
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP3
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.40351e+07
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 1.40351e+07
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.40351e+07
+GADSS_ThI: 1
+
+
+APP4
+
+DSS
+LeftCompD: 50220
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.8844
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 16
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 20
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 21
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 21
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 22
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 22
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 24
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 24
+G10FB: CustomConvolution 
+
+
+
+APP4
+
+DSSFBs: CustomConvolution 
+DSS_Th: 3.92157e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 3.92157e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 3.92157e+06
+GADSS_ThI: 1
+
+
+APP5
+
+DSS
+LeftCompD: 48040
+LeftCommD: 3342
+ExpoCommD: 0
+Comp/Comm Weight: 14.3746
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 7
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 13
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 15
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 18
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 18
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 18
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 22
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 22
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 24
+G10FB: CustomConvolution 
+
+
+
+APP5
+
+DSSFBs: CustomConvolution 
+DSS_Th: 955414
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 955414
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 955414
+GADSS_ThI: 1
+
+
+APP6
+
+DSS
+LeftCompD: 49772
+LeftCommD: 3358
+ExpoCommD: 0
+Comp/Comm Weight: 14.8219
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.72216
+G0nrChm: 7
+G0FB: CustomConvolution 
+
+G1Result: 2.72216
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.72216
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.72216
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.72216
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.72216
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.72216
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.72216
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.72216
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.72216
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.72216
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.72216
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.72216
+G1nrChm: 14
+G1FB: CustomConvolution 
+
+G2Result: 2.72216
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.72216
+G3nrChm: 21
+G3FB: CustomConvolution 
+
+G4Result: 2.72216
+G4nrChm: 22
+G4FB: CustomConvolution 
+
+G5Result: 2.72216
+G5nrChm: 23
+G5FB: CustomConvolution 
+
+G6Result: 2.72216
+G6nrChm: 25
+G6FB: CustomConvolution 
+
+G7Result: 2.72216
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.72216
+G8nrChm: 25
+G8FB: CustomConvolution 
+
+G9Result: 2.72216
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.72216
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP6
+
+DSSFBs: CustomConvolution 
+DSS_Th: 3.2257e+06
+DSS_ThI: 2.85475
+GANOFBs: CustomConvolution 
+GANO_Th: 3.2257e+06
+GANO_ThI: 2.85475
+GADSSFBs: CustomConvolution 
+GADSS_Th: 3.2257e+06
+GADSS_ThI: 2.85475
+
+
+APP7
+
+DSS
+LeftCompD: 49952
+LeftCommD: 3382
+ExpoCommD: 0
+Comp/Comm Weight: 14.77
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 14
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 17
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 20
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 20
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 24
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP7
+
+DSSFBs: CustomConvolution 
+DSS_Th: 3.7037e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 3.7037e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 3.7037e+06
+GADSS_ThI: 1
+
+
+APP8
+
+DSS
+LeftCompD: 47516
+LeftCommD: 3270
+ExpoCommD: 0
+Comp/Comm Weight: 14.5309
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 13
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 16
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 18
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 18
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 21
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 24
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP8
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.30293e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 1.30293e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.30293e+06
+GADSS_ThI: 1
+
+
+APP9
+
+DSS
+LeftCompD: 49920
+LeftCommD: 3310
+ExpoCommD: 0
+Comp/Comm Weight: 15.0816
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 15
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 18
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 21
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 22
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 26
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP9
+
+DSSFBs: CustomConvolution 
+DSS_Th: 2.04082e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 2.04082e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 2.04082e+06
+GADSS_ThI: 1
+
+
+APP10
+
+DSS
+LeftCompD: 49888
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.786
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.7119
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.7119
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.7119
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.7119
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.7119
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.7119
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.7119
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.7119
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.7119
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.7119
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.7119
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.7119
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.7119
+G1nrChm: 11
+G1FB: CustomConvolution 
+
+G2Result: 2.7119
+G2nrChm: 12
+G2FB: CustomConvolution 
+
+G3Result: 2.7119
+G3nrChm: 14
+G3FB: CustomConvolution 
+
+G4Result: 2.7119
+G4nrChm: 17
+G4FB: CustomConvolution 
+
+G5Result: 2.7119
+G5nrChm: 18
+G5FB: CustomConvolution 
+
+G6Result: 2.7119
+G6nrChm: 19
+G6FB: CustomConvolution 
+
+G7Result: 2.7119
+G7nrChm: 21
+G7FB: CustomConvolution 
+
+G8Result: 2.7119
+G8nrChm: 22
+G8FB: CustomConvolution 
+
+G9Result: 2.7119
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.7119
+G10nrChm: 24
+G10FB: CustomConvolution 
+
+
+
+APP10
+
+DSSFBs: CustomConvolution 
+DSS_Th: 3.92141e+06
+DSS_ThI: 3.25477
+GANOFBs: CustomConvolution 
+GANO_Th: 3.92141e+06
+GANO_ThI: 3.25477
+GADSSFBs: CustomConvolution 
+GADSS_Th: 3.92141e+06
+GADSS_ThI: 3.25477
+
+
+APP11
+
+DSS
+LeftCompD: 48944
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.7156
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.61454
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.61454
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.61454
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.61454
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.61454
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.61454
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.61454
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.61454
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.61454
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.61454
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.61454
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.61454
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.61454
+G1nrChm: 11
+G1FB: CustomConvolution 
+
+G2Result: 2.61454
+G2nrChm: 13
+G2FB: CustomConvolution 
+
+G3Result: 2.61454
+G3nrChm: 18
+G3FB: CustomConvolution 
+
+G4Result: 2.61454
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.61454
+G5nrChm: 21
+G5FB: CustomConvolution 
+
+G6Result: 2.61454
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.61454
+G7nrChm: 24
+G7FB: CustomConvolution 
+
+G8Result: 2.61454
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.61454
+G9nrChm: 26
+G9FB: CustomConvolution 
+
+G10Result: 2.61454
+G10nrChm: 27
+G10FB: CustomConvolution 
+
+
+
+APP11
+
+DSSFBs: CustomConvolution 
+DSS_Th: 3.5084e+06
+DSS_ThI: 7.05189
+GANOFBs: CustomConvolution 
+GANO_Th: 3.5084e+06
+GANO_ThI: 7.05189
+GADSSFBs: CustomConvolution 
+GADSS_Th: 3.5084e+06
+GADSS_ThI: 7.05189
+
+
+APP12
+
+DSS
+LeftCompD: 49424
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.8599
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.65633
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.65633
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.65633
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.65633
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.65633
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.65633
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.65633
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.65633
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.65633
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.65633
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.65633
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.65633
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.65633
+G1nrChm: 14
+G1FB: CustomConvolution 
+
+G2Result: 2.65633
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.65633
+G3nrChm: 20
+G3FB: CustomConvolution 
+
+G4Result: 2.65633
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.65633
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.65633
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.65633
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.65633
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.65633
+G9nrChm: 24
+G9FB: CustomConvolution 
+
+G10Result: 2.65633
+G10nrChm: 24
+G10FB: CustomConvolution 
+
+
+
+APP12
+
+DSSFBs: CustomConvolution 
+DSS_Th: 7.69112e+06
+DSS_ThI: 5.42224
+GANOFBs: CustomConvolution 
+GANO_Th: 7.69112e+06
+GANO_ThI: 5.42224
+GADSSFBs: CustomConvolution 
+GADSS_Th: 7.69112e+06
+GADSS_ThI: 5.42224
+
+
+APP13
+
+DSS
+LeftCompD: 49456
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.6928
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.63569
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.63569
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.63569
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.63569
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.63569
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.63569
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.63569
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.63569
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.63569
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.63569
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.63569
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.63569
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.63569
+G1nrChm: 17
+G1FB: CustomConvolution 
+
+G2Result: 2.63569
+G2nrChm: 17
+G2FB: CustomConvolution 
+
+G3Result: 2.63569
+G3nrChm: 17
+G3FB: CustomConvolution 
+
+G4Result: 2.63569
+G4nrChm: 18
+G4FB: CustomConvolution 
+
+G5Result: 2.63569
+G5nrChm: 19
+G5FB: CustomConvolution 
+
+G6Result: 2.63569
+G6nrChm: 21
+G6FB: CustomConvolution 
+
+G7Result: 2.63569
+G7nrChm: 22
+G7FB: CustomConvolution 
+
+G8Result: 2.63569
+G8nrChm: 22
+G8FB: CustomConvolution 
+
+G9Result: 2.63569
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.63569
+G10nrChm: 23
+G10FB: CustomConvolution 
+
+
+
+APP13
+
+DSSFBs: CustomConvolution 
+DSS_Th: 4.54525e+06
+DSS_ThI: 6.22699
+GANOFBs: CustomConvolution 
+GANO_Th: 4.54525e+06
+GANO_ThI: 6.22699
+GADSSFBs: CustomConvolution 
+GADSS_Th: 4.54525e+06
+GADSS_ThI: 6.22699
+
+
+APP14
+
+DSS
+LeftCompD: 49376
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.8455
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.67759
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.67759
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.67759
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.67759
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.67759
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.67759
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.67759
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.67759
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.67759
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.67759
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.67759
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.67759
+G0nrChm: 7
+G0FB: CustomConvolution 
+
+G1Result: 2.67759
+G1nrChm: 12
+G1FB: CustomConvolution 
+
+G2Result: 2.67759
+G2nrChm: 13
+G2FB: CustomConvolution 
+
+G3Result: 2.67759
+G3nrChm: 16
+G3FB: CustomConvolution 
+
+G4Result: 2.67759
+G4nrChm: 18
+G4FB: CustomConvolution 
+
+G5Result: 2.67759
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.67759
+G6nrChm: 20
+G6FB: CustomConvolution 
+
+G7Result: 2.67759
+G7nrChm: 21
+G7FB: CustomConvolution 
+
+G8Result: 2.67759
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.67759
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.67759
+G10nrChm: 24
+G10FB: CustomConvolution 
+
+
+
+APP14
+
+DSSFBs: CustomConvolution 
+DSS_Th: 3.12461e+06
+DSS_ThI: 4.59318
+GANOFBs: CustomConvolution 
+GANO_Th: 3.12461e+06
+GANO_ThI: 4.59318
+GADSSFBs: CustomConvolution 
+GADSS_Th: 3.12461e+06
+GADSS_ThI: 4.59318
+
+
+APP15
+
+DSS
+LeftCompD: 49916
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.8295
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.70271
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.70271
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.70271
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.70271
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.70271
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.70271
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.70271
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.70271
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.70271
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.70271
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.70271
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.70271
+G0nrChm: 13
+G0FB: CustomConvolution 
+
+G1Result: 2.70271
+G1nrChm: 14
+G1FB: CustomConvolution 
+
+G2Result: 2.70271
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.70271
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.70271
+G4nrChm: 21
+G4FB: CustomConvolution 
+
+G5Result: 2.70271
+G5nrChm: 23
+G5FB: CustomConvolution 
+
+G6Result: 2.70271
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.70271
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.70271
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.70271
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.70271
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP15
+
+DSSFBs: CustomConvolution 
+DSS_Th: 4.54525e+06
+DSS_ThI: 3.61347
+GANOFBs: CustomConvolution 
+GANO_Th: 4.54525e+06
+GANO_ThI: 3.61347
+GADSSFBs: CustomConvolution 
+GADSS_Th: 4.54525e+06
+GADSS_ThI: 3.61347
+
+
+APP16
+
+DSS
+LeftCompD: 49344
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 14.98
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.68782
+G0nrChm: 7
+G0FB: CustomConvolution 
+
+G1Result: 2.68782
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.68782
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.68782
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.68782
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.68782
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.68782
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.68782
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.68782
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.68782
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.68782
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.68782
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.68782
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.68782
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.68782
+G3nrChm: 20
+G3FB: CustomConvolution 
+
+G4Result: 2.68782
+G4nrChm: 23
+G4FB: CustomConvolution 
+
+G5Result: 2.68782
+G5nrChm: 23
+G5FB: CustomConvolution 
+
+G6Result: 2.68782
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.68782
+G7nrChm: 24
+G7FB: CustomConvolution 
+
+G8Result: 2.68782
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.68782
+G9nrChm: 26
+G9FB: CustomConvolution 
+
+G10Result: 2.68782
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP16
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.11099e+07
+DSS_ThI: 4.19398
+GANOFBs: CustomConvolution 
+GANO_Th: 1.11099e+07
+GANO_ThI: 4.19398
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.11099e+07
+GADSS_ThI: 4.19398
+
+
+APP17
+
+DSS
+LeftCompD: 50496
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 15.0018
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 11
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 15
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 19
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 21
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP17
+
+DSSFBs: CustomConvolution 
+DSS_Th: 5.71429e+07
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 5.71429e+07
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 5.71429e+07
+GADSS_ThI: 1
+
+
+APP18
+
+DSS
+LeftCompD: 49128
+LeftCommD: 3350
+ExpoCommD: 0
+Comp/Comm Weight: 14.6651
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.26619
+G0nrChm: 6
+G0FB: CustomConvolution 
+
+G1Result: 2.26619
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.26619
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.26619
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.26619
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.26619
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.26619
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.26619
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.26619
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.26619
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.26619
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.26619
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.26619
+G1nrChm: 12
+G1FB: CustomConvolution 
+
+G2Result: 2.26619
+G2nrChm: 15
+G2FB: CustomConvolution 
+
+G3Result: 2.26619
+G3nrChm: 18
+G3FB: CustomConvolution 
+
+G4Result: 2.26619
+G4nrChm: 22
+G4FB: CustomConvolution 
+
+G5Result: 2.26619
+G5nrChm: 22
+G5FB: CustomConvolution 
+
+G6Result: 2.26619
+G6nrChm: 24
+G6FB: CustomConvolution 
+
+G7Result: 2.26619
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.26619
+G8nrChm: 25
+G8FB: CustomConvolution 
+
+G9Result: 2.26619
+G9nrChm: 27
+G9FB: CustomConvolution 
+
+G10Result: 2.26619
+G10nrChm: 27
+G10FB: CustomConvolution 
+
+
+
+APP18
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.15942e+07
+DSS_ThI: 20.6377
+GANOFBs: CustomConvolution 
+GANO_Th: 1.15942e+07
+GANO_ThI: 20.6377
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.15942e+07
+GADSS_ThI: 20.6377
+
+
+APP19
+
+DSS
+LeftCompD: 49372
+LeftCommD: 3286
+ExpoCommD: 0
+Comp/Comm Weight: 15.025
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.679
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.679
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.679
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.679
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.679
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.679
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.679
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.679
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.679
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.679
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.679
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.679
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.679
+G1nrChm: 12
+G1FB: CustomConvolution 
+
+G2Result: 2.679
+G2nrChm: 14
+G2FB: CustomConvolution 
+
+G3Result: 2.679
+G3nrChm: 16
+G3FB: CustomConvolution 
+
+G4Result: 2.679
+G4nrChm: 19
+G4FB: CustomConvolution 
+
+G5Result: 2.679
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.679
+G6nrChm: 20
+G6FB: CustomConvolution 
+
+G7Result: 2.679
+G7nrChm: 20
+G7FB: CustomConvolution 
+
+G8Result: 2.679
+G8nrChm: 20
+G8FB: CustomConvolution 
+
+G9Result: 2.679
+G9nrChm: 20
+G9FB: CustomConvolution 
+
+G10Result: 2.679
+G10nrChm: 20
+G10FB: CustomConvolution 
+
+
+
+APP19
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.23062e+07
+DSS_ThI: 4.5379
+GANOFBs: CustomConvolution 
+GANO_Th: 1.23062e+07
+GANO_ThI: 4.5379
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.23062e+07
+GADSS_ThI: 4.5379
+
+
+APP20
+
+DSS
+LeftCompD: 49572
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.6924
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 16
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 21
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 21
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 23
+G10FB: CustomConvolution 
+
+
+
+APP20
+
+DSSFBs: CustomConvolution 
+DSS_Th: 816327
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 816327
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 816327
+GADSS_ThI: 1
+
+
+APP21
+
+DSS
+LeftCompD: 50332
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.2799
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 13
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 16
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 17
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 22
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 23
+G10FB: CustomConvolution 
+
+
+
+APP21
+
+DSSFBs: CustomConvolution 
+DSS_Th: 3.63636e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 3.63636e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 3.63636e+06
+GADSS_ThI: 1
+
+
+APP22
+
+DSS
+LeftCompD: 48060
+LeftCommD: 3326
+ExpoCommD: 0
+Comp/Comm Weight: 14.4498
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 17
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 18
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 19
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 26
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 26
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP22
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.28411e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 1.28411e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.28411e+06
+GADSS_ThI: 1
+
+
+APP23
+
+DSS
+LeftCompD: 49864
+LeftCommD: 3316
+ExpoCommD: 0
+Comp/Comm Weight: 15.0374
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 12
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 13
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 15
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 16
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 16
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 20
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 24
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP23
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.42857e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 1.42857e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.42857e+06
+GADSS_ThI: 1
+
+
+APP24
+
+DSS
+LeftCompD: 49636
+LeftCommD: 3310
+ExpoCommD: 0
+Comp/Comm Weight: 14.9958
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.74385
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.74385
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.74385
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.74385
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.74385
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.74385
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.74385
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.74385
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.74385
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.74385
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.74385
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.74385
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.74385
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.74385
+G2nrChm: 17
+G2FB: CustomConvolution 
+
+G3Result: 2.74385
+G3nrChm: 20
+G3FB: CustomConvolution 
+
+G4Result: 2.74385
+G4nrChm: 21
+G4FB: CustomConvolution 
+
+G5Result: 2.74385
+G5nrChm: 22
+G5FB: CustomConvolution 
+
+G6Result: 2.74385
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.74385
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.74385
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.74385
+G9nrChm: 26
+G9FB: CustomConvolution 
+
+G10Result: 2.74385
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP24
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.75436e+06
+DSS_ThI: 2.00874
+GANOFBs: CustomConvolution 
+GANO_Th: 1.75436e+06
+GANO_ThI: 2.00874
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.75436e+06
+GADSS_ThI: 2.00874
+
+
+APP25
+
+DSS
+LeftCompD: 49460
+LeftCommD: 3278
+ExpoCommD: 0
+Comp/Comm Weight: 15.0885
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.75106
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.75106
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.75106
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.75106
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.75106
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.75106
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.75106
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.75106
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.75106
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.75106
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.75106
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.75106
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.75106
+G1nrChm: 13
+G1FB: CustomConvolution 
+
+G2Result: 2.75106
+G2nrChm: 14
+G2FB: CustomConvolution 
+
+G3Result: 2.75106
+G3nrChm: 15
+G3FB: CustomConvolution 
+
+G4Result: 2.75106
+G4nrChm: 15
+G4FB: CustomConvolution 
+
+G5Result: 2.75106
+G5nrChm: 17
+G5FB: CustomConvolution 
+
+G6Result: 2.75106
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.75106
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.75106
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.75106
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.75106
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP25
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.26576e+06
+DSS_ThI: 1.72776
+GANOFBs: CustomConvolution 
+GANO_Th: 1.26576e+06
+GANO_ThI: 1.72776
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.26576e+06
+GADSS_ThI: 1.72776
+
+
+APP26
+
+DSS
+LeftCompD: 48168
+LeftCommD: 3254
+ExpoCommD: 0
+Comp/Comm Weight: 14.8027
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.67144
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.67144
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.67144
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.67144
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.67144
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.67144
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.67144
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.67144
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.67144
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.67144
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.67144
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.67144
+G0nrChm: 13
+G0FB: CustomConvolution 
+
+G1Result: 2.67144
+G1nrChm: 18
+G1FB: CustomConvolution 
+
+G2Result: 2.67144
+G2nrChm: 20
+G2FB: CustomConvolution 
+
+G3Result: 2.67144
+G3nrChm: 20
+G3FB: CustomConvolution 
+
+G4Result: 2.67144
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.67144
+G5nrChm: 22
+G5FB: CustomConvolution 
+
+G6Result: 2.67144
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.67144
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.67144
+G8nrChm: 25
+G8FB: CustomConvolution 
+
+G9Result: 2.67144
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.67144
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP26
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.66656e+06
+DSS_ThI: 4.83301
+GANOFBs: CustomConvolution 
+GANO_Th: 1.66656e+06
+GANO_ThI: 4.83301
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.66656e+06
+GADSS_ThI: 4.83301
+
+
+APP27
+
+DSS
+LeftCompD: 48136
+LeftCommD: 3338
+ExpoCommD: 0
+Comp/Comm Weight: 14.4206
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 18
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 22
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 23
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 23
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 24
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 24
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 24
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP27
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.14504e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 1.14504e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.14504e+06
+GADSS_ThI: 1
+
+
+APP28
+
+DSS
+LeftCompD: 47352
+LeftCommD: 3346
+ExpoCommD: 0
+Comp/Comm Weight: 14.1518
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 18
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 19
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 28
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 29
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 31
+G10FB: CustomConvolution 
+
+
+
+APP28
+
+DSSFBs: CustomConvolution 
+DSS_Th: 260417
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 260417
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 260417
+GADSS_ThI: 1
+
+
+APP29
+
+DSS
+LeftCompD: 47920
+LeftCommD: 3314
+ExpoCommD: 0
+Comp/Comm Weight: 14.4599
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76412
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76412
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76412
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76412
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76412
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76412
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76412
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76412
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76412
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76412
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76412
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76412
+G0nrChm: 15
+G0FB: CustomConvolution 
+
+G1Result: 2.76412
+G1nrChm: 17
+G1FB: CustomConvolution 
+
+G2Result: 2.76412
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.76412
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.76412
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.76412
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76412
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.76412
+G7nrChm: 24
+G7FB: CustomConvolution 
+
+G8Result: 2.76412
+G8nrChm: 25
+G8FB: CustomConvolution 
+
+G9Result: 2.76412
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.76412
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP29
+
+DSSFBs: CustomConvolution 
+DSS_Th: 379504
+DSS_ThI: 1.21821
+GANOFBs: CustomConvolution 
+GANO_Th: 379504
+GANO_ThI: 1.21821
+GADSSFBs: CustomConvolution 
+GADSS_Th: 379504
+GADSS_ThI: 1.21821
+
+
+APP30
+
+DSS
+LeftCompD: 47812
+LeftCommD: 3314
+ExpoCommD: 0
+Comp/Comm Weight: 14.4273
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.7644
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.7644
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.7644
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.7644
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.7644
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.7644
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.7644
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.7644
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.7644
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.7644
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.7644
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.7644
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.7644
+G1nrChm: 17
+G1FB: CustomConvolution 
+
+G2Result: 2.7644
+G2nrChm: 17
+G2FB: CustomConvolution 
+
+G3Result: 2.7644
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.7644
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.7644
+G5nrChm: 24
+G5FB: CustomConvolution 
+
+G6Result: 2.7644
+G6nrChm: 24
+G6FB: CustomConvolution 
+
+G7Result: 2.7644
+G7nrChm: 24
+G7FB: CustomConvolution 
+
+G8Result: 2.7644
+G8nrChm: 25
+G8FB: CustomConvolution 
+
+G9Result: 2.7644
+G9nrChm: 26
+G9FB: CustomConvolution 
+
+G10Result: 2.7644
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP30
+
+DSSFBs: CustomConvolution 
+DSS_Th: 361010
+DSS_ThI: 1.20758
+GANOFBs: CustomConvolution 
+GANO_Th: 361010
+GANO_ThI: 1.20758
+GADSSFBs: CustomConvolution 
+GADSS_Th: 361010
+GADSS_ThI: 1.20758
+
+
+APP31
+
+DSS
+LeftCompD: 49772
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.7867
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.73286
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.73286
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.73286
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.73286
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.73286
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.73286
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.73286
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.73286
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.73286
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.73286
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.73286
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.73286
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.73286
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.73286
+G2nrChm: 19
+G2FB: CustomConvolution 
+
+G3Result: 2.73286
+G3nrChm: 22
+G3FB: CustomConvolution 
+
+G4Result: 2.73286
+G4nrChm: 23
+G4FB: CustomConvolution 
+
+G5Result: 2.73286
+G5nrChm: 24
+G5FB: CustomConvolution 
+
+G6Result: 2.73286
+G6nrChm: 25
+G6FB: CustomConvolution 
+
+G7Result: 2.73286
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.73286
+G8nrChm: 26
+G8FB: CustomConvolution 
+
+G9Result: 2.73286
+G9nrChm: 27
+G9FB: CustomConvolution 
+
+G10Result: 2.73286
+G10nrChm: 27
+G10FB: CustomConvolution 
+
+
+
+APP31
+
+DSSFBs: CustomConvolution 
+DSS_Th: 2.49994e+06
+DSS_ThI: 2.43744
+GANOFBs: CustomConvolution 
+GANO_Th: 2.49994e+06
+GANO_ThI: 2.43744
+GADSSFBs: CustomConvolution 
+GADSS_Th: 2.49994e+06
+GADSS_ThI: 2.43744
+
+
+APP32
+
+DSS
+LeftCompD: 49696
+LeftCommD: 3366
+ExpoCommD: 0
+Comp/Comm Weight: 14.7641
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.73332
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.73332
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.73332
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.73332
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.73332
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.73332
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.73332
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.73332
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.73332
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.73332
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.73332
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.73332
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.73332
+G1nrChm: 18
+G1FB: CustomConvolution 
+
+G2Result: 2.73332
+G2nrChm: 19
+G2FB: CustomConvolution 
+
+G3Result: 2.73332
+G3nrChm: 19
+G3FB: CustomConvolution 
+
+G4Result: 2.73332
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.73332
+G5nrChm: 21
+G5FB: CustomConvolution 
+
+G6Result: 2.73332
+G6nrChm: 23
+G6FB: CustomConvolution 
+
+G7Result: 2.73332
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.73332
+G8nrChm: 25
+G8FB: CustomConvolution 
+
+G9Result: 2.73332
+G9nrChm: 27
+G9FB: CustomConvolution 
+
+G10Result: 2.73332
+G10nrChm: 27
+G10FB: CustomConvolution 
+
+
+
+APP32
+
+DSSFBs: CustomConvolution 
+DSS_Th: 2.46907e+06
+DSS_ThI: 2.41969
+GANOFBs: CustomConvolution 
+GANO_Th: 2.46907e+06
+GANO_ThI: 2.41969
+GADSSFBs: CustomConvolution 
+GADSS_Th: 2.46907e+06
+GADSS_ThI: 2.41969
+
+
+APP33
+
+DSS
+LeftCompD: 49244
+LeftCommD: 3358
+ExpoCommD: 0
+Comp/Comm Weight: 14.6647
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 13
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 17
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 20
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 20
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 20
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 22
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 23
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP33
+
+DSSFBs: CustomConvolution 
+DSS_Th: 611621
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 611621
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 611621
+GADSS_ThI: 1
+
+
+APP34
+
+DSS
+LeftCompD: 48860
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 14.833
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.64336
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.64336
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.64336
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.64336
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.64336
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.64336
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.64336
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.64336
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.64336
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.64336
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.64336
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.64336
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.64336
+G1nrChm: 10
+G1FB: CustomConvolution 
+
+G2Result: 2.64336
+G2nrChm: 13
+G2FB: CustomConvolution 
+
+G3Result: 2.64336
+G3nrChm: 15
+G3FB: CustomConvolution 
+
+G4Result: 2.64336
+G4nrChm: 17
+G4FB: CustomConvolution 
+
+G5Result: 2.64336
+G5nrChm: 18
+G5FB: CustomConvolution 
+
+G6Result: 2.64336
+G6nrChm: 20
+G6FB: CustomConvolution 
+
+G7Result: 2.64336
+G7nrChm: 21
+G7FB: CustomConvolution 
+
+G8Result: 2.64336
+G8nrChm: 23
+G8FB: CustomConvolution 
+
+G9Result: 2.64336
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.64336
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP34
+
+DSSFBs: CustomConvolution 
+DSS_Th: 2.8569e+06
+DSS_ThI: 5.92806
+GANOFBs: CustomConvolution 
+GANO_Th: 2.8569e+06
+GANO_ThI: 5.92806
+GADSSFBs: CustomConvolution 
+GADSS_Th: 2.8569e+06
+GADSS_ThI: 5.92806
+
+
+APP35
+
+DSS
+LeftCompD: 49516
+LeftCommD: 3370
+ExpoCommD: 0
+Comp/Comm Weight: 14.6932
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 16
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 17
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 18
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 19
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 21
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 24
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 24
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP35
+
+DSSFBs: CustomConvolution 
+DSS_Th: 796813
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 796813
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 796813
+GADSS_ThI: 1
+
+
+APP36
+
+DSS
+LeftCompD: 48960
+LeftCommD: 3382
+ExpoCommD: 0
+Comp/Comm Weight: 14.4766
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.7593
+G0nrChm: 8
+G0FB: CustomConvolution 
+
+G1Result: 2.7593
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.7593
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.7593
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.7593
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.7593
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.7593
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.7593
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.7593
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.7593
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.7593
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.7593
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.7593
+G1nrChm: 15
+G1FB: CustomConvolution 
+
+G2Result: 2.7593
+G2nrChm: 18
+G2FB: CustomConvolution 
+
+G3Result: 2.7593
+G3nrChm: 21
+G3FB: CustomConvolution 
+
+G4Result: 2.7593
+G4nrChm: 22
+G4FB: CustomConvolution 
+
+G5Result: 2.7593
+G5nrChm: 23
+G5FB: CustomConvolution 
+
+G6Result: 2.7593
+G6nrChm: 24
+G6FB: CustomConvolution 
+
+G7Result: 2.7593
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.7593
+G8nrChm: 26
+G8FB: CustomConvolution 
+
+G9Result: 2.7593
+G9nrChm: 27
+G9FB: CustomConvolution 
+
+G10Result: 2.7593
+G10nrChm: 27
+G10FB: CustomConvolution 
+
+
+
+APP36
+
+DSSFBs: CustomConvolution 
+DSS_Th: 706709
+DSS_ThI: 1.40635
+GANOFBs: CustomConvolution 
+GANO_Th: 706709
+GANO_ThI: 1.40635
+GADSSFBs: CustomConvolution 
+GADSS_Th: 706709
+GADSS_ThI: 1.40635
+
+
+APP37
+
+DSS
+LeftCompD: 48244
+LeftCommD: 3238
+ExpoCommD: 0
+Comp/Comm Weight: 14.8993
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.73159
+G0nrChm: 9
+G0FB: CustomConvolution 
+
+G1Result: 2.73159
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.73159
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.73159
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.73159
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.73159
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.73159
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.73159
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.73159
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.73159
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.73159
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.73159
+G0nrChm: 12
+G0FB: CustomConvolution 
+
+G1Result: 2.73159
+G1nrChm: 17
+G1FB: CustomConvolution 
+
+G2Result: 2.73159
+G2nrChm: 22
+G2FB: CustomConvolution 
+
+G3Result: 2.73159
+G3nrChm: 23
+G3FB: CustomConvolution 
+
+G4Result: 2.73159
+G4nrChm: 24
+G4FB: CustomConvolution 
+
+G5Result: 2.73159
+G5nrChm: 24
+G5FB: CustomConvolution 
+
+G6Result: 2.73159
+G6nrChm: 24
+G6FB: CustomConvolution 
+
+G7Result: 2.73159
+G7nrChm: 25
+G7FB: CustomConvolution 
+
+G8Result: 2.73159
+G8nrChm: 25
+G8FB: CustomConvolution 
+
+G9Result: 2.73159
+G9nrChm: 25
+G9FB: CustomConvolution 
+
+G10Result: 2.73159
+G10nrChm: 26
+G10FB: CustomConvolution 
+
+
+
+APP37
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.72412e+06
+DSS_ThI: 2.48705
+GANOFBs: CustomConvolution 
+GANO_Th: 1.72412e+06
+GANO_ThI: 2.48705
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.72412e+06
+GADSS_ThI: 2.48705
+
+
+APP38
+
+DSS
+LeftCompD: 49580
+LeftCommD: 3294
+ExpoCommD: 0
+Comp/Comm Weight: 15.0516
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.74515
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.74515
+G1nrChm: 34
+G1FB: CustomConvolution 
+
+G2Result: 2.74515
+G2nrChm: 34
+G2FB: CustomConvolution 
+
+G3Result: 2.74515
+G3nrChm: 34
+G3FB: CustomConvolution 
+
+G4Result: 2.74515
+G4nrChm: 34
+G4FB: CustomConvolution 
+
+G5Result: 2.74515
+G5nrChm: 34
+G5FB: CustomConvolution 
+
+G6Result: 2.74515
+G6nrChm: 34
+G6FB: CustomConvolution 
+
+G7Result: 2.74515
+G7nrChm: 34
+G7FB: CustomConvolution 
+
+G8Result: 2.74515
+G8nrChm: 34
+G8FB: CustomConvolution 
+
+G9Result: 2.74515
+G9nrChm: 34
+G9FB: CustomConvolution 
+
+G10Result: 2.74515
+G10nrChm: 34
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.74515
+G0nrChm: 10
+G0FB: CustomConvolution 
+
+G1Result: 2.74515
+G1nrChm: 14
+G1FB: CustomConvolution 
+
+G2Result: 2.74515
+G2nrChm: 15
+G2FB: CustomConvolution 
+
+G3Result: 2.74515
+G3nrChm: 16
+G3FB: CustomConvolution 
+
+G4Result: 2.74515
+G4nrChm: 18
+G4FB: CustomConvolution 
+
+G5Result: 2.74515
+G5nrChm: 19
+G5FB: CustomConvolution 
+
+G6Result: 2.74515
+G6nrChm: 21
+G6FB: CustomConvolution 
+
+G7Result: 2.74515
+G7nrChm: 21
+G7FB: CustomConvolution 
+
+G8Result: 2.74515
+G8nrChm: 22
+G8FB: CustomConvolution 
+
+G9Result: 2.74515
+G9nrChm: 23
+G9FB: CustomConvolution 
+
+G10Result: 2.74515
+G10nrChm: 25
+G10FB: CustomConvolution 
+
+
+
+APP38
+
+DSSFBs: CustomConvolution 
+DSS_Th: 1.66664e+06
+DSS_ThI: 1.9583
+GANOFBs: CustomConvolution 
+GANO_Th: 1.66664e+06
+GANO_ThI: 1.9583
+GADSSFBs: CustomConvolution 
+GADSS_Th: 1.66664e+06
+GADSS_ThI: 1.9583
+
+
+APP39
+
+DSS
+LeftCompD: 50328
+LeftCommD: 3374
+ExpoCommD: 0
+Comp/Comm Weight: 14.9164
+CustomConvolution 
+Selected FBs:
+CustomConvolution 
+
+
+GANO
+G0Result: 2.76972
+G0nrChm: 11
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 35
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 35
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 35
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 35
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 35
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 35
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 35
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 35
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 35
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 35
+G10FB: CustomConvolution 
+
+
+
+GADSS
+G0Result: 2.76972
+G0nrChm: 13
+G0FB: CustomConvolution 
+
+G1Result: 2.76972
+G1nrChm: 17
+G1FB: CustomConvolution 
+
+G2Result: 2.76972
+G2nrChm: 22
+G2FB: CustomConvolution 
+
+G3Result: 2.76972
+G3nrChm: 25
+G3FB: CustomConvolution 
+
+G4Result: 2.76972
+G4nrChm: 26
+G4FB: CustomConvolution 
+
+G5Result: 2.76972
+G5nrChm: 26
+G5FB: CustomConvolution 
+
+G6Result: 2.76972
+G6nrChm: 26
+G6FB: CustomConvolution 
+
+G7Result: 2.76972
+G7nrChm: 27
+G7FB: CustomConvolution 
+
+G8Result: 2.76972
+G8nrChm: 27
+G8FB: CustomConvolution 
+
+G9Result: 2.76972
+G9nrChm: 28
+G9FB: CustomConvolution 
+
+G10Result: 2.76972
+G10nrChm: 29
+G10FB: CustomConvolution 
+
+
+
+APP39
+
+DSSFBs: CustomConvolution 
+DSS_Th: 5.26316e+06
+DSS_ThI: 1
+GANOFBs: CustomConvolution 
+GANO_Th: 5.26316e+06
+GANO_ThI: 1
+GADSSFBs: CustomConvolution 
+GADSS_Th: 5.26316e+06
+GADSS_ThI: 1
+
+

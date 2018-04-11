@@ -1,0 +1,12 @@
+ChannelExtract_0 FB5
+ChannelExtract_1 FB5
+ChannelExtract_2 FB5
+CustomConvolution_0 FB6
+ColorConvert_0 FB2
+CustomConvolution_1 FB6
+CustomConvolution_2 FB6
+MyKernel SW0
+AccumulateWeighted_0 FB9
+EqualizeHistogram_0 FB7
+Input SW0
+Output SW0

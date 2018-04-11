@@ -1,0 +1,12 @@
+ChannelExtract_0 FB9
+ColorConvert_0 FB2
+Box3mul3_0 FB8
+MinMax_0 SW0
+MyKernel SW0
+CustomConvolution_0 FB1
+Thresholding_0 FB15
+AbsoluteDifference_0 SW0
+Input SW0
+Output SW0
+CannyEdgeDetector_0 FB4
+HarrisCorners_0 FB3

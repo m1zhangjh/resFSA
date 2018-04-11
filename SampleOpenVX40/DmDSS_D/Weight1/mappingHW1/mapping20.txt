@@ -1,0 +1,5 @@
+ColorConvert_0 SW0
+ChannelExtract_0 SW0
+CannyEdgeDectector_0 SW0
+Input SW0
+Output SW0

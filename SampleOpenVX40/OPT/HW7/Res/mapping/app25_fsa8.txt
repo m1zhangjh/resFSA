@@ -1,0 +1,11 @@
+ChannelExtract_0 FB5
+ColorConvert_0 FB2
+Gaussian3mul3_1 SW0
+Gaussian3mul3_2 SW0
+ChannelCombine_0 FB4
+CustomConvolution_0 SW0
+Input SW0
+Output SW0
+ChannelExtract_2 FB5
+Gaussian3mul3_0 SW0
+ChannelExtract_1 FB5

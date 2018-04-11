@@ -1,0 +1,60 @@
+SW: SW0, All, freq 2e+09, compFreq 1e+08
+FB: FB1, CustomConvolution, freq 2e+09, compFreq 2e+09
+FB: FB2, ColorConvert, freq 2e+09, compFreq 2e+09
+FB: FB3, HarrisCorners, freq 2e+09, compFreq 2e+09
+FB: FB4, CannyEdgeDetector, freq 2e+09, compFreq 2e+09
+FB: FB5, OpticalFlowPyramid, freq 2e+09, compFreq 2e+09
+FB: FB6, CannyEdgeDectector, freq 2e+09, compFreq 2e+09
+FB: FB7, Gaussian3mul3, freq 2e+09, compFreq 2e+09
+FB: FB8, Box3mul3, freq 2e+09, compFreq 2e+09
+FB: FB9, ChannelExtract, freq 2e+09, compFreq 2e+09
+FB: FB10, EqualizeHistogram, freq 2e+09, compFreq 2e+09
+FB: FB11, Median3mul3, freq 2e+09, compFreq 2e+09
+FB: FB12, Sobel3mul3, freq 2e+09, compFreq 2e+09
+
+
+Connection: FB1 -> FB2, FB3, FB4, FB5, FB6, FB7, FB8, FB9, FB10, FB11, FB12,
+Connection: FB2 -> FB1, FB3, FB4, FB5, FB6, FB7, FB8, FB9, FB10, FB11, FB12,
+Connection: FB3 -> FB1, FB2, FB4, FB5, FB6, FB7, FB8, FB9, FB10, FB11, FB12,
+Connection: FB4 -> FB1, FB2, FB3, FB5, FB6, FB7, FB8, FB9, FB10, FB11, FB12,
+Connection: FB5 -> FB1, FB2, FB3, FB4, FB6, FB7, FB8, FB9, FB10, FB11, FB12,
+Connection: FB6 -> FB1, FB2, FB3, FB4, FB5, FB7, FB8, FB9, FB10, FB11, FB12,
+Connection: FB7 -> FB1, FB2, FB3, FB4, FB5, FB6, FB8, FB9, FB10, FB11, FB12,
+Connection: FB8 -> FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB9, FB10, FB11, FB12,
+Connection: FB9 -> FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB8, FB10, FB11, FB12,
+Connection: FB10 -> FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB8, FB9, FB11, FB12,
+Connection: FB11 -> FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB8, FB9, FB10, FB12,
+Connection: FB12 -> FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB8, FB9, FB10, FB11,
+
+Bus: Bus0, freq 1e+08, layer 3
+Bus: Bus1, freq 1e+08, layer 3
+
+PEport: FB1 In Bus0
+PEport: FB1 Out Bus1
+PEport: FB2 In Bus0
+PEport: FB2 Out Bus1
+PEport: FB3 In Bus0
+PEport: FB3 Out Bus1
+PEport: FB4 In Bus0
+PEport: FB4 Out Bus1
+PEport: FB5 In Bus0
+PEport: FB5 Out Bus1
+PEport: FB6 In Bus0
+PEport: FB6 Out Bus1
+PEport: FB7 In Bus0
+PEport: FB7 Out Bus1
+PEport: FB8 In Bus0
+PEport: FB8 Out Bus1
+PEport: FB9 In Bus0
+PEport: FB9 Out Bus1
+PEport: FB10 In Bus0
+PEport: FB10 Out Bus1
+PEport: FB11 In Bus0
+PEport: FB11 Out Bus1
+PEport: FB12 In Bus0
+PEport: FB12 Out Bus1
+
+TotalMem: 120000 Bytes
+NrRdBuffer: 3
+NrWrBuffer: 3
+IntrCycle: 100

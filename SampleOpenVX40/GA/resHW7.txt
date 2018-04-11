@@ -1,0 +1,84 @@
+G0Result: 11.178
+G0nrChm: 30
+G0FB: Box3mul3 CannyEdgeDectector CannyEdgeDetector ColorConvert CustomConvolution HarrisCorners OpticalFlowPyramid 
+
+G1Result: 12.3246
+G1nrChm: 158
+G1FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G2Result: 12.3246
+G2nrChm: 212
+G2FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G3Result: 12.3246
+G3nrChm: 294
+G3FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G4Result: 12.3246
+G4nrChm: 334
+G4FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G5Result: 12.3246
+G5nrChm: 379
+G5FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G6Result: 12.3246
+G6nrChm: 459
+G6FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G7Result: 12.3246
+G7nrChm: 493
+G7FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G8Result: 12.3246
+G8nrChm: 550
+G8FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G9Result: 12.3246
+G9nrChm: 587
+G9FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G10Result: 12.3246
+G10nrChm: 639
+G10FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G11Result: 12.3246
+G11nrChm: 706
+G11FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G12Result: 12.3246
+G12nrChm: 745
+G12FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G13Result: 12.3246
+G13nrChm: 789
+G13FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G14Result: 12.3246
+G14nrChm: 837
+G14FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G15Result: 12.3246
+G15nrChm: 870
+G15FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G16Result: 12.3246
+G16nrChm: 914
+G16FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G17Result: 12.3246
+G17nrChm: 959
+G17FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G18Result: 12.3246
+G18nrChm: 1007
+G18FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G19Result: 12.3246
+G19nrChm: 1040
+G19FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+
+G20Result: 12.3246
+G20nrChm: 1081
+G20FB: Box3mul3 CannyEdgeDetector ColorConvert CustomConvolution EqualizeHistogram HarrisCorners OpticalFlowPyramid 
+

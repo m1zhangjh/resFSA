@@ -1,0 +1,5 @@
+Accumulate_0 SW0
+IntegralImage_0 FB4
+ChannelExtract_0 SW0
+Input SW0
+Output SW0
